@@ -1,0 +1,3503 @@
+[
+  {
+    "id": 1,
+    "question_en": "What is the capital city of Japan?",
+    "question_roman": "Japan ka darul hakumat konsa shehar hai?",
+    "options": ["Kyoto", "Osaka", "Tokyo", "Hiroshima"],
+    "answer": "Tokyo"
+  },
+  {
+    "id": 2,
+    "question_en": "Which gas is most abundant in the Earth's atmosphere?",
+    "question_roman": "Zameen ki fiza mein sab se zyada konsi gas payi jati hai?",
+    "options": ["Oxygen", "Carbon Dioxide", "Nitrogen", "Argon"],
+    "answer": "Nitrogen"
+  },
+  {
+    "id": 3,
+    "question_en": "Who was the first man to walk on the moon?",
+    "question_roman": "Chand par qadam rakhne wala pehla insan kon tha?",
+    "options": ["Buzz Aldrin", "Yuri Gagarin", "Michael Collins", "Neil Armstrong"],
+    "answer": "Neil Armstrong"
+  },
+  {
+    "id": 4,
+    "question_en": "What is the largest ocean on Earth?",
+    "question_roman": "Zameen par sab se bara samandar konsa hai?",
+    "options": ["Atlantic Ocean", "Indian Ocean", "Arctic Ocean", "Pacific Ocean"],
+    "answer": "Pacific Ocean"
+  },
+  {
+    "id": 5,
+    "question_en": "What is the chemical symbol for gold?",
+    "question_roman": "Sonay (gold) ka chemical symbol kya hai?",
+    "options": ["Au", "Ag", "Go", "Gd"],
+    "answer": "Au"
+  },
+  {
+    "id": 6,
+    "question_en": "In which year did World War II end?",
+    "question_roman": "Dusri Jang-e-Azeem kis saal khatam hui?",
+    "options": ["1943", "1945", "1950", "1939"],
+    "answer": "1945"
+  },
+  {
+    "id": 7,
+    "question_en": "Who painted the Mona Lisa?",
+    "question_roman": "Mona Lisa ki painting kis ne banayi?",
+    "options": ["Vincent van Gogh", "Pablo Picasso", "Leonardo da Vinci", "Michelangelo"],
+    "answer": "Leonardo da Vinci"
+  },
+  {
+    "id": 8,
+    "question_en": "Which country is known as the Land of the Rising Sun?",
+    "question_roman": "Kis mulk ko ' उगते सूरज की भूमि ' kaha jata hai?",
+    "options": ["China", "South Korea", "Japan", "Thailand"],
+    "answer": "Japan"
+  },
+  {
+    "id": 9,
+    "question_en": "How many players are there in a standard soccer team?",
+    "question_roman": "Aik standard football team mein kitne khiladi hotay hain?",
+    "options": ["9", "10", "11", "12"],
+    "answer": "11"
+  },
+  {
+    "id": 10,
+    "question_en": "What is the hardest natural substance on Earth?",
+    "question_roman": "Zameen par sab se sakht qudrati shay konsi hai?",
+    "options": ["Gold", "Iron", "Diamond", "Quartz"],
+    "answer": "Diamond"
+  },
+  {
+    "id": 11,
+    "question_en": "Who wrote the 'Harry Potter' series?",
+    "question_roman": "'Harry Potter' series kis ne likhi?",
+    "options": ["J.R.R. Tolkien", "George R.R. Martin", "J.K. Rowling", "Stephen King"],
+    "answer": "J.K. Rowling"
+  },
+  {
+    "id": 12,
+    "question_en": "What is the capital of Canada?",
+    "question_roman": "Canada ka darul hakumat kya hai?",
+    "options": ["Toronto", "Vancouver", "Montreal", "Ottawa"],
+    "answer": "Ottawa"
+  },
+  {
+    "id": 13,
+    "question_en": "Which planet is closest to the sun?",
+    "question_roman": "Suraj ke sab se qareeb konsa sayara hai?",
+    "options": ["Venus", "Mars", "Mercury", "Earth"],
+    "answer": "Mercury"
+  },
+  {
+    "id": 14,
+    "question_en": "What is the main ingredient in guacamole?",
+    "question_roman": "Guacamole ka bunyadi juz kya hai?",
+    "options": ["Tomato", "Onion", "Avocado", "Pepper"],
+    "answer": "Avocado"
+  },
+  {
+    "id": 15,
+    "question_en": "Who was the first President of the United States?",
+    "question_roman": "United States ka pehla sadar kon tha?",
+    "options": ["Abraham Lincoln", "Thomas Jefferson", "George Washington", "John Adams"],
+    "answer": "George Washington"
+  },
+  {
+    "id": 16,
+    "question_en": "How many continents are there in the world?",
+    "question_roman": "Dunya mein kitne barr-e-azam hain?",
+    "options": ["5", "6", "7", "8"],
+    "answer": "7"
+  },
+  {
+    "id": 17,
+    "question_en": "What is the human body's largest organ?",
+    "question_roman": "Insani jism ka sab se bara azoo (organ) konsa hai?",
+    "options": ["Heart", "Liver", "Skin", "Lungs"],
+    "answer": "Skin"
+  },
+  {
+    "id": 18,
+    "question_en": "The Great Wall of China was built to protect against which group?",
+    "question_roman": "Deewar-e-Cheen kis giroh se bachao ke liye banayi gayi thi?",
+    "options": ["The Romans", "The Mongols", "The Vikings", "The Japanese"],
+    "answer": "The Mongols"
+  },
+  {
+    "id": 19,
+    "question_en": "In which sport is the term 'slam dunk' used?",
+    "question_roman": "'Slam dunk' ki istilaah kis khel mein istemal hoti hai?",
+    "options": ["Football", "Baseball", "Basketball", "Tennis"],
+    "answer": "Basketball"
+  },
+  {
+    "id": 20,
+    "question_en": "What is the tallest mountain in the world?",
+    "question_roman": "Dunya ka sab se ooncha pahar konsa hai?",
+    "options": ["K2", "Kangchenjunga", "Mount Everest", "Lhotse"],
+    "answer": "Mount Everest"
+  },
+  {
+    "id": 21,
+    "question_en": "Who invented the telephone?",
+    "question_roman": "Telephone kis ne ijaad kiya?",
+    "options": ["Thomas Edison", "Nikola Tesla", "Alexander Graham Bell", "Guglielmo Marconi"],
+    "answer": "Alexander Graham Bell"
+  },
+  {
+    "id": 22,
+    "question_en": "What is the currency of the United Kingdom?",
+    "question_roman": "United Kingdom ki currency kya hai?",
+    "options": ["Euro", "Dollar", "Pound Sterling", "Yen"],
+    "answer": "Pound Sterling"
+  },
+  {
+    "id": 23,
+    "question_en": "Which country gifted the Statue of Liberty to the USA?",
+    "question_roman": "Statue of Liberty USA ko kis mulk ne tohfay mein diya tha?",
+    "options": ["Germany", "Spain", "United Kingdom", "France"],
+    "answer": "France"
+  },
+  {
+    "id": 24,
+    "question_en": "How many hearts does an octopus have?",
+    "question_roman": "Aik octopus ke kitne dil hotay hain?",
+    "options": ["One", "Two", "Three", "Four"],
+    "answer": "Three"
+  },
+  {
+    "id": 25,
+    "question_en": "What is the study of plants called?",
+    "question_roman": "Podon ke mutalay ko kya kehte hain?",
+    "options": ["Zoology", "Botany", "Geology", "Astronomy"],
+    "answer": "Botany"
+  },
+  {
+    "id": 26,
+    "question_en": "Which country won the first FIFA World Cup?",
+    "question_roman": "Pehla FIFA World Cup kis mulk ne jeeta tha?",
+    "options": ["Brazil", "Argentina", "Uruguay", "Italy"],
+    "answer": "Uruguay"
+  },
+  {
+    "id": 27,
+    "question_en": "What is the name of the galaxy our solar system is in?",
+    "question_roman": "Hamara nizam-e-shamsi kis kehkashan mein hai?",
+    "options": ["Andromeda", "Triangulum", "Whirlpool", "Milky Way"],
+    "answer": "Milky Way"
+  },
+  {
+    "id": 28,
+    "question_en": "The Titanic sank in which year?",
+    "question_roman": "Titanic jahaz kis saal dooba tha?",
+    "options": ["1905", "1912", "1918", "1921"],
+    "answer": "1912"
+  },
+  {
+    "id": 29,
+    "question_en": "Who is known as the 'King of Pop'?",
+    "question_roman": "'King of Pop' ke naam se kon jana jata hai?",
+    "options": ["Elvis Presley", "Michael Jackson", "Freddie Mercury", "Madonna"],
+    "answer": "Michael Jackson"
+  },
+  {
+    "id": 30,
+    "question_en": "What is the capital of Australia?",
+    "question_roman": "Australia ka darul hakumat kya hai?",
+    "options": ["Sydney", "Melbourne", "Canberra", "Perth"],
+    "answer": "Canberra"
+  },
+  {
+    "id": 31,
+    "question_en": "What force pulls objects toward the center of the Earth?",
+    "question_roman": "Konsi quwwat cheezon ko zameen ke markaz ki taraf kheenchi hai?",
+    "options": ["Magnetism", "Friction", "Gravity", "Tension"],
+    "answer": "Gravity"
+  },
+  {
+    "id": 32,
+    "question_en": "What is the main language spoken in Brazil?",
+    "question_roman": "Brazil mein boli jane wali ahem zaban konsi hai?",
+    "options": ["Spanish", "Portuguese", "English", "French"],
+    "answer": "Portuguese"
+  },
+  {
+    "id": 33,
+    "question_en": "Who discovered penicillin?",
+    "question_roman": "Penicillin kis ne daryaft ki?",
+    "options": ["Marie Curie", "Louis Pasteur", "Alexander Fleming", "Isaac Newton"],
+    "answer": "Alexander Fleming"
+  },
+  {
+    "id": 34,
+    "question_en": "Which is the largest desert in the world?",
+    "question_roman": "Dunya ka sab se bara sehra konsa hai?",
+    "options": ["Sahara Desert", "Arabian Desert", "Gobi Desert", "Antarctic Polar Desert"],
+    "answer": "Antarctic Polar Desert"
+  },
+  {
+    "id": 35,
+    "question_en": "How many bones are in the adult human body?",
+    "question_roman": "Baligh insani jism mein kitni haddiyan hoti hain?",
+    "options": ["206", "210", "201", "215"],
+    "answer": "206"
+  },
+  {
+    "id": 36,
+    "question_en": "In Greek mythology, who is the king of the gods?",
+    "question_roman": "Yunani kahaniyon mein, devtaon ka badshah kon hai?",
+    "options": ["Apollo", "Poseidon", "Hades", "Zeus"],
+    "answer": "Zeus"
+  },
+  {
+    "id": 37,
+    "question_en": "Who directed the movie 'Avatar'?",
+    "question_roman": "Film 'Avatar' ke director kon hain?",
+    "options": ["Steven Spielberg", "James Cameron", "Christopher Nolan", "Peter Jackson"],
+    "answer": "James Cameron"
+  },
+  {
+    "id": 38,
+    "question_en": "What is the smallest country in the world?",
+    "question_roman": "Dunya ka sab se chota mulk konsa hai?",
+    "options": ["Monaco", "Nauru", "San Marino", "Vatican City"],
+    "answer": "Vatican City"
+  },
+  {
+    "id": 39,
+    "question_en": "What is the speed of light?",
+    "question_roman": "Roshni ki raftaar kya hai?",
+    "options": ["300,000 km/s", "150,000 km/s", "500,000 km/s", "1,000,000 km/s"],
+    "answer": "300,000 km/s"
+  },
+  {
+    "id": 40,
+    "question_en": "The Renaissance period began in which country?",
+    "question_roman": "Renaissance (دورِ نشاۃ ثانیہ) ka aaghaz kis mulk mein hua?",
+    "options": ["France", "Spain", "Italy", "England"],
+    "answer": "Italy"
+  },
+  {
+    "id": 41,
+    "question_en": "What is the national sport of Japan?",
+    "question_roman": "Japan ka qaumi khel kya hai?",
+    "options": ["Judo", "Karate", "Sumo Wrestling", "Baseball"],
+    "answer": "Sumo Wrestling"
+  },
+  {
+    "id": 42,
+    "question_en": "Which element is essential for human bones?",
+    "question_roman": "Insani haddiyon ke liye konsa anasir (element) zaroori hai?",
+    "options": ["Iron", "Potassium", "Calcium", "Sodium"],
+    "answer": "Calcium"
+  },
+  {
+    "id": 43,
+    "question_en": "Who was the first female Prime Minister of a country?",
+    "question_roman": "Kisi mulk ki pehli khatoon Wazir-e-Azam kon theen?",
+    "options": ["Indira Gandhi", "Golda Meir", "Margaret Thatcher", "Sirimavo Bandaranaike"],
+    "answer": "Sirimavo Bandaranaike"
+  },
+  {
+    "id": 44,
+    "question_en": "Which famous scientist developed the theory of relativity?",
+    "question_roman": "Kis mashhoor scientist ne nazriya-e-izafiyat (theory of relativity) paish kiya?",
+    "options": ["Isaac Newton", "Galileo Galilei", "Albert Einstein", "Nikola Tesla"],
+    "answer": "Albert Einstein"
+  },
+  {
+    "id": 45,
+    "question_en": "How many rings are on the Olympic flag?",
+    "question_roman": "Olympic jhanday par kitne rings hotay hain?",
+    "options": ["4", "5", "6", "7"],
+    "answer": "5"
+  },
+  {
+    "id": 46,
+    "question_en": "Mount Fuji is located in which country?",
+    "question_roman": "Mount Fuji kis mulk mein waqay hai?",
+    "options": ["China", "Nepal", "Japan", "South Korea"],
+    "answer": "Japan"
+  },
+  {
+    "id": 47,
+    "question_en": "What is the primary gas that we exhale?",
+    "question_roman": "Hum saans bahar nikalte waqt bunyadi tor par konsi gas kharij karte hain?",
+    "options": ["Oxygen", "Nitrogen", "Carbon Dioxide", "Hydrogen"],
+    "answer": "Carbon Dioxide"
+  },
+  {
+    "id": 48,
+    "question_en": "In which city is the famous landmark 'Eiffel Tower' located?",
+    "question_roman": "Mashhoor 'Eiffel Tower' kis shehar mein waqay hai?",
+    "options": ["London", "Rome", "Berlin", "Paris"],
+    "answer": "Paris"
+  },
+  {
+    "id": 49,
+    "question_en": "Who wrote the classic novel '1984'?",
+    "question_roman": "Classic novel '1984' kis ne likha?",
+    "options": ["George Orwell", "Aldous Huxley", "J.R.R. Tolkien", "F. Scott Fitzgerald"],
+    "answer": "George Orwell"
+  },
+  {
+    "id": 50,
+    "question_en": "Which is the only mammal capable of sustained flight?",
+    "question_roman": "Woh konsa wahid mammal hai jo musalsal parwaz kar sakta hai?",
+    "options": ["Flying Squirrel", "Bat", "Ostrich", "Penguin"],
+    "answer": "Bat"
+  }, 
+
+  {
+    "id": 51,
+    "question_en": "What does 'CPU' stand for in computing?",
+    "question_roman": "Computing mein 'CPU' ka kya matlab hai?",
+    "options": ["Central Processing Unit", "Computer Personal Unit", "Central Processor Unit", "Computer Processing Unit"],
+    "answer": "Central Processing Unit"
+  },
+  {
+    "id": 52,
+    "question_en": "Who is the author of 'The Lord of the Rings'?",
+    "question_roman": "'The Lord of the Rings' ka musannif kon hai?",
+    "options": ["C.S. Lewis", "J.K. Rowling", "George R.R. Martin", "J.R.R. Tolkien"],
+    "answer": "J.R.R. Tolkien"
+  },
+  {
+    "id": 53,
+    "question_en": "Which desert is the largest hot desert in the world?",
+    "question_roman": "Dunya ka sab se bara garam sehra konsa hai?",
+    "options": ["Gobi Desert", "Kalahari Desert", "Sahara Desert", "Arabian Desert"],
+    "answer": "Sahara Desert"
+  },
+  {
+    "id": 54,
+    "question_en": "What is the capital city of Russia?",
+    "question_roman": "Russia ka darul hakumat konsa shehar hai?",
+    "options": ["Saint Petersburg", "Novosibirsk", "Yekaterinburg", "Moscow"],
+    "answer": "Moscow"
+  },
+  {
+    "id": 55,
+    "question_en": "In which movie would you hear the quote, 'May the Force be with you'?",
+    "question_roman": "Aapko 'May the Force be with you' ka dialogue kis film mein sunne ko milay ga?",
+    "options": ["Star Trek", "The Matrix", "Star Wars", "Blade Runner"],
+    "answer": "Star Wars"
+  },
+  {
+    "id": 56,
+    "question_en": "What is the boiling point of water in Celsius?",
+    "question_roman": "Celsius mein paani ka boiling point kya hai?",
+    "options": ["90°C", "100°C", "110°C", "120°C"],
+    "answer": "100°C"
+  },
+  {
+    "id": 57,
+    "question_en": "Who was the lead singer of the band 'Queen'?",
+    "question_roman": "'Queen' band ka lead singer kon tha?",
+    "options": ["David Bowie", "Elton John", "Freddie Mercury", "Robert Plant"],
+    "answer": "Freddie Mercury"
+  },
+  {
+    "id": 58,
+    "question_en": "Which is the longest river in the world?",
+    "question_roman": "Dunya ka sab se lamba darya konsa hai?",
+    "options": ["Amazon River", "Nile River", "Yangtze River", "Mississippi River"],
+    "answer": "Nile River"
+  },
+  {
+    "id": 59,
+    "question_en": "What is the name for the fear of spiders?",
+    "question_roman": "Makṛiyo ke darr ko kya kehte hain?",
+    "options": ["Agoraphobia", "Acrophobia", "Arachnophobia", "Claustrophobia"],
+    "answer": "Arachnophobia"
+  },
+  {
+    "id": 60,
+    "question_en": "Which country is home to the kangaroo?",
+    "question_roman": "Kangaroo kis mulk mein paya jata hai?",
+    "options": ["South Africa", "India", "Australia", "Brazil"],
+    "answer": "Australia"
+  },
+  {
+    "id": 61,
+    "question_en": "Who wrote the play 'Romeo and Juliet'?",
+    "question_roman": "'Romeo and Juliet' drama kis ne likha?",
+    "options": ["Charles Dickens", "William Shakespeare", "Jane Austen", "Mark Twain"],
+    "answer": "William Shakespeare"
+  },
+  {
+    "id": 62,
+    "question_en": "What is the largest country in the world by area?",
+    "question_roman": "Raqbay ke lihaz se dunya ka sab se bara mulk konsa hai?",
+    "options": ["Canada", "China", "USA", "Russia"],
+    "answer": "Russia"
+  },
+  {
+    "id": 63,
+    "question_en": "What does HTML stand for?",
+    "question_roman": "HTML ka kya matlab hai?",
+    "options": ["Hyper Text Markup Language", "High Tech Modern Language", "Hyperlink and Text Markup Language", "Home Tool Markup Language"],
+    "answer": "Hyper Text Markup Language"
+  },
+  {
+    "id": 64,
+    "question_en": "Which artist is famous for the 'Campbell's Soup Cans' series?",
+    "question_roman": "Konsa artist 'Campbell's Soup Cans' series ke liye mashhoor hai?",
+    "options": ["Pablo Picasso", "Vincent van Gogh", "Andy Warhol", "Salvador Dalí"],
+    "answer": "Andy Warhol"
+  },
+  {
+    "id": 65,
+    "question_en": "How many states are there in the United States of America?",
+    "question_roman": "United States of America mein kitni riyasatein (states) hain?",
+    "options": ["48", "49", "50", "51"],
+    "answer": "50"
+  },
+  {
+    "id": 66,
+    "question_en": "Which planet is known for its rings?",
+    "question_roman": "Konsa sayara apne rings ke liye jana jata hai?",
+    "options": ["Jupiter", "Mars", "Saturn", "Uranus"],
+    "answer": "Saturn"
+  },
+  {
+    "id": 67,
+    "question_en": "In what year did the first iPhone release?",
+    "question_roman": "Pehla iPhone kis saal release hua tha?",
+    "options": ["2005", "2006", "2007", "2008"],
+    "answer": "2007"
+  },
+  {
+    "id": 68,
+    "question_en": "What is the main currency of Switzerland?",
+    "question_roman": "Switzerland ki ahem currency konsi hai?",
+    "options": ["Euro", "Swiss Franc", "Dollar", "Pound"],
+    "answer": "Swiss Franc"
+  },
+  {
+    "id": 69,
+    "question_en": "Who was the ancient Greek god of the sea?",
+    "question_roman": "Qadeem Yunan mein samandar ka devta kon tha?",
+    "options": ["Zeus", "Apollo", "Hades", "Poseidon"],
+    "answer": "Poseidon"
+  },
+  {
+    "id": 70,
+    "question_en": "What is the most spoken language in the world?",
+    "question_roman": "Dunya mein sab se zyada boli jane wali zaban konsi hai?",
+    "options": ["Spanish", "Hindi", "English", "Mandarin Chinese"],
+    "answer": "Mandarin Chinese"
+  },
+  {
+    "id": 71,
+    "question_en": "Which team won the 2022 FIFA World Cup?",
+    "question_roman": "2022 ka FIFA World Cup kis team ne jeeta?",
+    "options": ["France", "Brazil", "Argentina", "Germany"],
+    "answer": "Argentina"
+  },
+  {
+    "id": 72,
+    "question_en": "What is the process by which plants make their food?",
+    "question_roman": "Woh konsa amal hai jis se poday apni ghiza banate hain?",
+    "options": ["Respiration", "Transpiration", "Photosynthesis", "Germination"],
+    "answer": "Photosynthesis"
+  },
+  {
+    "id": 73,
+    "question_en": "Which continent is the least populated?",
+    "question_roman": "Sab se kam abadi wala barr-e-azam konsa hai?",
+    "options": ["Australia", "South America", "Antarctica", "Africa"],
+    "answer": "Antarctica"
+  },
+  {
+    "id": 74,
+    "question_en": "The movie 'Jurassic Park' is about which creatures?",
+    "question_roman": "Film 'Jurassic Park' kis makhlooq ke baray mein hai?",
+    "options": ["Dragons", "Dinosaurs", "Aliens", "Zombies"],
+    "answer": "Dinosaurs"
+  },
+  {
+    "id": 75,
+    "question_en": "What is the capital of Egypt?",
+    "question_roman": "Misr (Egypt) ka darul hakumat kya hai?",
+    "options": ["Alexandria", "Giza", "Cairo", "Luxor"],
+    "answer": "Cairo"
+  },
+  {
+    "id": 76,
+    "question_en": "How many sides does a hexagon have?",
+    "question_roman": "Hexagon ki kitni sides hoti hain?",
+    "options": ["Five", "Six", "Seven", "Eight"],
+    "answer": "Six"
+  },
+  {
+    "id": 77,
+    "question_en": "Which company developed the Android operating system?",
+    "question_roman": "Android operating system kis company ne banaya?",
+    "options": ["Apple", "Microsoft", "Google", "Samsung"],
+    "answer": "Google"
+  },
+  {
+    "id": 78,
+    "question_en": "Who painted 'The Starry Night'?",
+    "question_roman": "'The Starry Night' ki painting kis ne banayi?",
+    "options": ["Claude Monet", "Vincent van Gogh", "Pablo Picasso", "Rembrandt"],
+    "answer": "Vincent van Gogh"
+  },
+  {
+    "id": 79,
+    "question_en": "Which country is famous for its pyramids?",
+    "question_roman": "Konsa mulk apne ahram (pyramids) ke liye mashhoor hai?",
+    "options": ["Mexico", "Peru", "Egypt", "Sudan"],
+    "answer": "Egypt"
+  },
+  {
+    "id": 80,
+    "question_en": "What element does 'O' represent on the periodic table?",
+    "question_roman": "Periodic table mein 'O' kis anasir (element) ko zahir karta hai?",
+    "options": ["Gold", "Oxygen", "Osmium", "Oganesson"],
+    "answer": "Oxygen"
+  },
+  {
+    "id": 81,
+    "question_en": "Which ocean is the smallest in the world?",
+    "question_roman": "Dunya ka sab se chota samandar konsa hai?",
+    "options": ["Indian Ocean", "Atlantic Ocean", "Arctic Ocean", "Southern Ocean"],
+    "answer": "Arctic Ocean"
+  },
+  {
+    "id": 82,
+    "question_en": "In which city were the first modern Olympic Games held?",
+    "question_roman": "Pehlay jadeed Olympic Games kis shehar mein munaqid hue thay?",
+    "options": ["Paris", "London", "Rome", "Athens"],
+    "answer": "Athens"
+  },
+  {
+    "id": 83,
+    "question_en": "What is the main character's name in the 'Indiana Jones' films?",
+    "question_roman": "'Indiana Jones' filmon mein markazi kirdar ka naam kya hai?",
+    "options": ["Dr. Alan Grant", "Dr. Henry Jones, Jr.", "Han Solo", "Rick O'Connell"],
+    "answer": "Dr. Henry Jones, Jr."
+  },
+  {
+    "id": 84,
+    "question_en": "What type of animal is a 'Komodo dragon'?",
+    "question_roman": "'Komodo dragon' kis qisam ka janwar hai?",
+    "options": ["Bird", "Mammal", "Lizard", "Fish"],
+    "answer": "Lizard"
+  },
+  {
+    "id": 85,
+    "question_en": "Who wrote 'The Great Gatsby'?",
+    "question_roman": "'The Great Gatsby' kis ne likha?",
+    "options": ["Ernest Hemingway", "F. Scott Fitzgerald", "William Faulkner", "John Steinbeck"],
+    "answer": "F. Scott Fitzgerald"
+  },
+  {
+    "id": 86,
+    "question_en": "What is the capital of Spain?",
+    "question_roman": "Spain ka darul hakumat kya hai?",
+    "options": ["Barcelona", "Lisbon", "Madrid", "Seville"],
+    "answer": "Madrid"
+  },
+  {
+    "id": 87,
+    "question_en": "Which is the most populous country in the world?",
+    "question_roman": "Dunya ka sab se zyada abadi wala mulk konsa hai?",
+    "options": ["China", "United States", "India", "Indonesia"],
+    "answer": "India"
+  },
+  {
+    "id": 88,
+    "question_en": "What is the 'brain' of a computer?",
+    "question_roman": "Computer ka 'dimagh' kya hai?",
+    "options": ["RAM", "Motherboard", "Hard Drive", "CPU"],
+    "answer": "CPU"
+  },
+  {
+    "id": 89,
+    "question_en": "In which sport would you perform a 'hat-trick'?",
+    "question_roman": "Aap 'hat-trick' kis khel mein karte hain?",
+    "options": ["Basketball", "Tennis", "Cricket", "Golf"],
+    "answer": "Cricket"
+  },
+  {
+    "id": 90,
+    "question_en": "What is the largest living bird?",
+    "question_roman": "Sab se bara zinda parinda konsa hai?",
+    "options": ["Emu", "Eagle", "Ostrich", "Albatross"],
+    "answer": "Ostrich"
+  },
+  {
+    "id": 91,
+    "question_en": "Who is the creator of the 'Star Wars' universe?",
+    "question_roman": "'Star Wars' ki duniya ka takhleeq car kon hai?",
+    "options": ["J.J. Abrams", "Steven Spielberg", "George Lucas", "James Cameron"],
+    "answer": "George Lucas"
+  },
+  {
+    "id": 92,
+    "question_en": "Which country has the most natural lakes?",
+    "question_roman": "Kis mulk mein sab se zyada qudrati jheelain hain?",
+    "options": ["USA", "Canada", "Russia", "Finland"],
+    "answer": "Canada"
+  },
+  {
+    "id": 93,
+    "question_en": "What is the chemical formula for table salt?",
+    "question_roman": "Khanay ke namak ka chemical formula kya hai?",
+    "options": ["H2O", "CO2", "NaCl", "C6H12O6"],
+    "answer": "NaCl"
+  },
+  {
+    "id": 94,
+    "question_en": "Who directed 'Pulp Fiction'?",
+    "question_roman": "'Pulp Fiction' ka director kon hai?",
+    "options": ["Martin Scorsese", "Quentin Tarantino", "Francis Ford Coppola", "Stanley Kubrick"],
+    "answer": "Quentin Tarantino"
+  },
+  {
+    "id": 95,
+    "question_en": "What is the study of earthquakes called?",
+    "question_roman": "Zalzalay ke mutalay ko kya kehte hain?",
+    "options": ["Geology", "Seismology", "Volcanology", "Meteorology"],
+    "answer": "Seismology"
+  },
+  {
+    "id": 96,
+    "question_en": "Which is the highest waterfall in the world?",
+    "question_roman": "Dunya ki sab se oonchi aabshar konsi hai?",
+    "options": ["Niagara Falls", "Victoria Falls", "Iguazu Falls", "Angel Falls"],
+    "answer": "Angel Falls"
+  },
+  {
+    "id": 97,
+    "question_en": "What is the name of the first man-made satellite?",
+    "question_roman": "Pehlay insan-sakhta satellite ka naam kya tha?",
+    "options": ["Explorer 1", "Sputnik 1", "Vanguard 1", "Luna 1"],
+    "answer": "Sputnik 1"
+  },
+  {
+    "id": 98,
+    "question_en": "In 'The Matrix', what color pill does Neo take?",
+    "question_roman": "'The Matrix' mein, Neo konsay rang ki goli leta hai?",
+    "options": ["Blue", "Green", "Red", "Yellow"],
+    "answer": "Red"
+  },
+  {
+    "id": 99,
+    "question_en": "Which country is known as the Land of the Midnight Sun?",
+    "question_roman": "Kis mulk ko 'Aadhi Raat ke Suraj ki Sarzameen' kaha jata hai?",
+    "options": ["Sweden", "Finland", "Norway", "Iceland"],
+    "answer": "Norway"
+  },
+  {
+    "id": 100,
+    "question_en": "What is the fear of heights called?",
+    "question_roman": "Oonchai ke darr ko kya kehte hain?",
+    "options": ["Agoraphobia", "Acrophobia", "Claustrophobia", "Mysophobia"],
+    "answer": "Acrophobia"
+  }, 
+  {
+    "id": 101,
+    "question_en": "Which is the largest island in the world?",
+    "question_roman": "Dunya ka sab se bara jazeera konsa hai?",
+    "options": ["Borneo", "Greenland", "Madagascar", "New Guinea"],
+    "answer": "Greenland"
+  },
+  {
+    "id": 102,
+    "question_en": "What is the capital city of Italy?",
+    "question_roman": "Italy ka darul hakumat konsa shehar hai?",
+    "options": ["Venice", "Milan", "Rome", "Naples"],
+    "answer": "Rome"
+  },
+  {
+    "id": 103,
+    "question_en": "Which historical figure is known for his 'I have a dream' speech?",
+    "question_roman": "Konsi tareekhi shakhsiyat apni 'I have a dream' taqreer ke liye jani jati hai?",
+    "options": ["Malcolm X", "Nelson Mandela", "Martin Luther King Jr.", "Mahatma Gandhi"],
+    "answer": "Martin Luther King Jr."
+  },
+  {
+    "id": 104,
+    "question_en": "What does 'www' stand for in a website address?",
+    "question_roman": "Website address mein 'www' ka kya matlab hai?",
+    "options": ["World Wide Web", "World Web Wide", "Web World Wide", "Wide World Web"],
+    "answer": "World Wide Web"
+  },
+  {
+    "id": 105,
+    "question_en": "Which element has the chemical symbol 'Fe'?",
+    "question_roman": "Kis anasir (element) ka chemical symbol 'Fe' hai?",
+    "options": ["Gold", "Silver", "Iron", "Copper"],
+    "answer": "Iron"
+  },
+  {
+    "id": 106,
+    "question_en": "The Colosseum is a famous landmark in which city?",
+    "question_roman": "Colosseum kis shehar ki mashhoor alamat hai?",
+    "options": ["Athens", "Istanbul", "Rome", "Cairo"],
+    "answer": "Rome"
+  },
+  {
+    "id": 107,
+    "question_en": "Who was the first person to invent a practical light bulb?",
+    "question_roman": "Pehla amli light bulb ijaad karne wala shakhs kon tha?",
+    "options": ["Nikola Tesla", "Thomas Edison", "Alexander Graham Bell", "Marie Curie"],
+    "answer": "Thomas Edison"
+  },
+  {
+    "id": 108,
+    "question_en": "Which famous artist cut off his own ear?",
+    "question_roman": "Kis mashhoor fankaar ne apna kaan kaat liya tha?",
+    "options": ["Pablo Picasso", "Claude Monet", "Salvador Dalí", "Vincent van Gogh"],
+    "answer": "Vincent van Gogh"
+  },
+  {
+    "id": 109,
+    "question_en": "What is the capital city of Argentina?",
+    "question_roman": "Argentina ka darul hakumat konsa shehar hai?",
+    "options": ["Santiago", "Bogotá", "Buenos Aires", "Lima"],
+    "answer": "Buenos Aires"
+  },
+  {
+    "id": 110,
+    "question_en": "What is the smallest prime number?",
+    "question_roman": "Sab se chota mufarrad adad (prime number) konsa hai?",
+    "options": ["0", "1", "2", "3"],
+    "answer": "2"
+  },
+  {
+    "id": 111,
+    "question_en": "In what year was the company Google founded?",
+    "question_roman": "Google company kis saal qaim hui thi?",
+    "options": ["1995", "1998", "2001", "2004"],
+    "answer": "1998"
+  },
+  {
+    "id": 112,
+    "question_en": "What is the main character's name in 'The Hunger Games'?",
+    "question_roman": "'The Hunger Games' mein markazi kirdar ka naam kya hai?",
+    "options": ["Hermione Granger", "Bella Swan", "Katniss Everdeen", "Tris Prior"],
+    "answer": "Katniss Everdeen"
+  },
+  {
+    "id": 113,
+    "question_en": "Which is the only planet in our solar system that rotates on its side?",
+    "question_roman": "Hamare nizam-e-shamsi mein woh konsa wahid sayara hai jo apni taraf ghoomta hai?",
+    "options": ["Jupiter", "Saturn", "Uranus", "Neptune"],
+    "answer": "Uranus"
+  },
+  {
+    "id": 114,
+    "question_en": "Who wrote 'To Kill a Mockingbird'?",
+    "question_roman": "'To Kill a Mockingbird' kis ne likha?",
+    "options": ["Harper Lee", "J.D. Salinger", "F. Scott Fitzgerald", "John Steinbeck"],
+    "answer": "Harper Lee"
+  },
+  {
+    "id": 115,
+    "question_en": "Which country is the largest producer of coffee in the world?",
+    "question_roman": "Dunya mein coffee paida karne wala sab se bara mulk konsa hai?",
+    "options": ["Colombia", "Vietnam", "Brazil", "Ethiopia"],
+    "answer": "Brazil"
+  },
+  {
+    "id": 116,
+    "question_en": "What is the national animal of India?",
+    "question_roman": "Hindustan ka qaumi janwar konsa hai?",
+    "options": ["Lion", "Elephant", "Tiger", "Leopard"],
+    "answer": "Tiger"
+  },
+  {
+    "id": 117,
+    "question_en": "Which is the longest bone in the human body?",
+    "question_roman": "Insani jism ki sab se lambi haddi konsi hai?",
+    "options": ["Humerus", "Tibia", "Femur", "Fibula"],
+    "answer": "Femur"
+  },
+  {
+    "id": 118,
+    "question_en": "Who directed the 'Lord of the Rings' trilogy?",
+    "question_roman": "'Lord of the Rings' trilogy ke director kon hain?",
+    "options": ["James Cameron", "Steven Spielberg", "George Lucas", "Peter Jackson"],
+    "answer": "Peter Jackson"
+  },
+  {
+    "id": 119,
+    "question_en": "What is the capital of South Korea?",
+    "question_roman": "South Korea ka darul hakumat kya hai?",
+    "options": ["Busan", "Incheon", "Seoul", "Daegu"],
+    "answer": "Seoul"
+  },
+  {
+    "id": 120,
+    "question_en": "The Roman Empire was primarily based on which continent?",
+    "question_roman": "Saltanat-e-Rome bunyadi tor par kis barr-e-azam par mabni thi?",
+    "options": ["Asia", "Africa", "Europe", "South America"],
+    "answer": "Europe"
+  },
+  {
+    "id": 121,
+    "question_en": "What is the name of the wizard in 'The Lord of the Rings' who leads the Fellowship?",
+    "question_roman": "'The Lord of the Rings' mein us jadugar ka naam kya hai jo Fellowship ki rehbari karta hai?",
+    "options": ["Saruman", "Dumbledore", "Gandalf", "Merlin"],
+    "answer": "Gandalf"
+  },
+  {
+    "id": 122,
+    "question_en": "What is the currency of Japan?",
+    "question_roman": "Japan ki currency kya hai?",
+    "options": ["Yuan", "Won", "Yen", "Baht"],
+    "answer": "Yen"
+  },
+  {
+    "id": 123,
+    "question_en": "Which ocean is located between Europe and North America?",
+    "question_roman": "Europe aur North America ke darmiyan konsa samandar waqay hai?",
+    "options": ["Pacific Ocean", "Indian Ocean", "Arctic Ocean", "Atlantic Ocean"],
+    "answer": "Atlantic Ocean"
+  },
+  {
+    "id": 124,
+    "question_en": "Who was the first woman to fly solo across the Atlantic Ocean?",
+    "question_roman": "Atlantic Ocean ko akele uṛaan bhar kar paar karne wali pehli khatoon kon theen?",
+    "options": ["Bessie Coleman", "Harriet Quimby", "Amelia Earhart", "Jacqueline Cochran"],
+    "answer": "Amelia Earhart"
+  },
+  {
+    "id": 125,
+    "question_en": "What is the main component of the sun?",
+    "question_roman": "Suraj ka bunyadi juz kya hai?",
+    "options": ["Hydrogen", "Helium", "Oxygen", "Carbon"],
+    "answer": "Hydrogen"
+  },
+  {
+    "id": 126,
+    "question_en": "What is the capital city of Turkey?",
+    "question_roman": "Turkey ka darul hakumat konsa shehar hai?",
+    "options": ["Istanbul", "Ankara", "Izmir", "Bursa"],
+    "answer": "Ankara"
+  },
+  {
+    "id": 127,
+    "question_en": "Which social media platform was founded by Mark Zuckerberg?",
+    "question_roman": "Mark Zuckerberg ne konsa social media platform banaya tha?",
+    "options": ["Twitter", "Instagram", "Facebook", "Snapchat"],
+    "answer": "Facebook"
+  },
+  {
+    "id": 128,
+    "question_en": "Which civilization built the Machu Picchu complex in Peru?",
+    "question_roman": "Peru mein Machu Picchu ka complex kis tehzeeb ne banaya tha?",
+    "options": ["Aztec", "Maya", "Inca", "Olmec"],
+    "answer": "Inca"
+  },
+  {
+    "id": 129,
+    "question_en": "What is the freezing point of water in Fahrenheit?",
+    "question_roman": "Fahrenheit mein paani ka freezing point kya hai?",
+    "options": ["0°F", "32°F", "45°F", "100°F"],
+    "answer": "32°F"
+  },
+  {
+    "id": 130,
+    "question_en": "Who is the lead actor in the 'Mission: Impossible' film series?",
+    "question_roman": "'Mission: Impossible' film series mein markazi adakar kon hai?",
+    "options": ["Keanu Reeves", "Matt Damon", "Tom Cruise", "Brad Pitt"],
+    "answer": "Tom Cruise"
+  },
+  {
+    "id": 131,
+    "question_en": "Which country is famous for the tulip flower?",
+    "question_roman": "Konsa mulk gul-e-lala (tulip) ke liye mashhoor hai?",
+    "options": ["Belgium", "Germany", "Netherlands", "France"],
+    "answer": "Netherlands"
+  },
+  {
+    "id": 132,
+    "question_en": "How many players are on a baseball team on the field?",
+    "question_roman": "Baseball ki team mein maidan par kitne khiladi hotay hain?",
+    "options": ["7", "8", "9", "10"],
+    "answer": "9"
+  },
+  {
+    "id": 133,
+    "question_en": "What does a 'Geiger counter' measure?",
+    "question_roman": "'Geiger counter' kya cheez mapta hai?",
+    "options": ["Earthquakes", "Radiation", "Air Pressure", "Light intensity"],
+    "answer": "Radiation"
+  },
+  {
+    "id": 134,
+    "question_en": "Who wrote 'The Odyssey'?",
+    "question_roman": "'The Odyssey' kis ne likhi?",
+    "options": ["Socrates", "Plato", "Aristotle", "Homer"],
+    "answer": "Homer"
+  },
+  {
+    "id": 135,
+    "question_en": "What is the capital of New Zealand?",
+    "question_roman": "New Zealand ka darul hakumat kya hai?",
+    "options": ["Auckland", "Christchurch", "Wellington", "Queenstown"],
+    "answer": "Wellington"
+  },
+  {
+    "id": 136,
+    "question_en": "Which is the tallest building in the world as of 2024?",
+    "question_roman": "2024 ke mutabiq dunya ki sab se oonchi imarat konsi hai?",
+    "options": ["Shanghai Tower", "Abraj Al-Bait Clock Tower", "Burj Khalifa", "Ping An Finance Centre"],
+    "answer": "Burj Khalifa"
+  },
+  {
+    "id": 137,
+    "question_en": "What is the name of the sea between Africa and Europe?",
+    "question_roman": "Africa aur Europe ke darmiyan samandar ka kya naam hai?",
+    "options": ["Black Sea", "Red Sea", "Mediterranean Sea", "Adriatic Sea"],
+    "answer": "Mediterranean Sea"
+  },
+  {
+    "id": 138,
+    "question_en": "Who is credited with discovering gravity?",
+    "question_roman": "Kashish-e-saqal (gravity) daryaft karne ka sehra kis ke sar hai?",
+    "options": ["Galileo Galilei", "Isaac Newton", "Albert Einstein", "Copernicus"],
+    "answer": "Isaac Newton"
+  },
+  {
+    "id": 139,
+    "question_en": "Which artist is known for his 'surrealist' paintings like 'The Persistence of Memory'?",
+    "question_roman": "Konsa fankaar apni 'surrealist' paintings jaise ke 'The Persistence of Memory' ke liye jana jata hai?",
+    "options": ["Pablo Picasso", "Claude Monet", "Salvador Dalí", "Vincent van Gogh"],
+    "answer": "Salvador Dalí"
+  },
+  {
+    "id": 140,
+    "question_en": "What is the main language spoken in Argentina?",
+    "question_roman": "Argentina mein boli jane wali ahem zaban konsi hai?",
+    "options": ["Portuguese", "Spanish", "Italian", "English"],
+    "answer": "Spanish"
+  },
+  {
+    "id": 141,
+    "question_en": "What is the unit of electrical resistance?",
+    "question_roman": "Barqi muzahimat (electrical resistance) ki ikai kya hai?",
+    "options": ["Volt", "Ampere", "Watt", "Ohm"],
+    "answer": "Ohm"
+  },
+  {
+    "id": 142,
+    "question_en": "In 'Harry Potter', what is the name of the school of witchcraft and wizardry?",
+    "question_roman": "'Harry Potter' mein jadu-gari ke school ka naam kya hai?",
+    "options": ["Beauxbatons", "Durmstrang", "Hogwarts", "Ilvermorny"],
+    "answer": "Hogwarts"
+  },
+  {
+    "id": 143,
+    "question_en": "Which planet is known as the 'Morning Star' or 'Evening Star'?",
+    "question_roman": "Kis sayaray ko 'Subah ka Tara' ya 'Shaam ka Tara' kaha jata hai?",
+    "options": ["Mars", "Venus", "Mercury", "Jupiter"],
+    "answer": "Venus"
+  },
+  {
+    "id": 144,
+    "question_en": "Which city hosted the 2016 Summer Olympics?",
+    "question_roman": "2016 ke Summer Olympics kis shehar mein hue thay?",
+    "options": ["London", "Tokyo", "Rio de Janeiro", "Beijing"],
+    "answer": "Rio de Janeiro"
+  },
+  {
+    "id": 145,
+    "question_en": "Who is the Greek god of war?",
+    "question_roman": "Yunani devmala mein jang ka devta kon hai?",
+    "options": ["Zeus", "Apollo", "Ares", "Hermes"],
+    "answer": "Ares"
+  },
+  {
+    "id": 146,
+    "question_en": "What is the capital of Thailand?",
+    "question_roman": "Thailand ka darul hakumat kya hai?",
+    "options": ["Chiang Mai", "Phuket", "Bangkok", "Pattaya"],
+    "answer": "Bangkok"
+  },
+  {
+    "id": 147,
+    "question_en": "Which is the largest joint in the human body?",
+    "question_roman": "Insani jism ka sab se bara jor (joint) konsa hai?",
+    "options": ["Hip", "Shoulder", "Knee", "Elbow"],
+    "answer": "Knee"
+  },
+  {
+    "id": 148,
+    "question_en": "Who directed the film 'Titanic'?",
+    "question_roman": "Film 'Titanic' ke director kon hain?",
+    "options": ["Steven Spielberg", "George Lucas", "James Cameron", "Christopher Nolan"],
+    "answer": "James Cameron"
+  },
+  {
+    "id": 149,
+    "question_en": "Which is the smallest continent by land area?",
+    "question_roman": "Zameeni raqbay ke lihaz se sab se chota barr-e-azam konsa hai?",
+    "options": ["Europe", "Antarctica", "South America", "Australia"],
+    "answer": "Australia"
+  },
+  {
+    "id": 150,
+    "question_en": "What is the name of the phobia that involves the fear of confined spaces?",
+    "question_roman": "Tang jagahon ke darr se mutaliq phobia ka naam kya hai?",
+    "options": ["Acrophobia", "Agoraphobia", "Claustrophobia", "Arachnophobia"],
+    "answer": "Claustrophobia"
+  }, 
+  {
+    "id": 151,
+    "question_en": "What is the capital city of Norway?",
+    "question_roman": "Norway ka darul hakumat konsa shehar hai?",
+    "options": ["Stockholm", "Copenhagen", "Helsinki", "Oslo"],
+    "answer": "Oslo"
+  },
+  {
+    "id": 152,
+    "question_en": "Which famous scientist developed the laws of motion?",
+    "question_roman": "Kis mashhoor scientist ne harkat ke qawaneen (laws of motion) banaye?",
+    "options": ["Albert Einstein", "Galileo Galilei", "Isaac Newton", "Nikola Tesla"],
+    "answer": "Isaac Newton"
+  },
+  {
+    "id": 153,
+    "question_en": "What is the largest species of shark?",
+    "question_roman": "Shark ki sab se bari nasal konsi hai?",
+    "options": ["Great White Shark", "Hammerhead Shark", "Tiger Shark", "Whale Shark"],
+    "answer": "Whale Shark"
+  },
+  {
+    "id": 154,
+    "question_en": "In which country did the Olympic Games originate?",
+    "question_roman": "Olympic Games ka aaghaz kis mulk mein hua?",
+    "options": ["Italy", "Egypt", "Greece", "China"],
+    "answer": "Greece"
+  },
+  {
+    "id": 155,
+    "question_en": "What is the name of the main protagonist in the 'Breaking Bad' series?",
+    "question_roman": "'Breaking Bad' series mein markazi kirdar ka naam kya hai?",
+    "options": ["Jesse Pinkman", "Saul Goodman", "Walter White", "Hank Schrader"],
+    "answer": "Walter White"
+  },
+  {
+    "id": 156,
+    "question_en": "Which element is commonly found in pencils?",
+    "question_roman": "Pencils mein aam tor par konsa anasir (element) paya jata hai?",
+    "options": ["Lead", "Graphite (Carbon)", "Tin", "Aluminum"],
+    "answer": "Graphite (Carbon)"
+  },
+  {
+    "id": 157,
+    "question_en": "What is the name of the world's largest rainforest?",
+    "question_roman": "Dunya ke sab se bare barish-e-janglaat ka naam kya hai?",
+    "options": ["Congo Rainforest", "Daintree Rainforest", "Valdivian Rainforest", "Amazon Rainforest"],
+    "answer": "Amazon Rainforest"
+  },
+  {
+    "id": 158,
+    "question_en": "Who painted the ceiling of the Sistine Chapel?",
+    "question_roman": "Sistine Chapel ki chhat par painting kis ne banayi?",
+    "options": ["Leonardo da Vinci", "Raphael", "Donatello", "Michelangelo"],
+    "answer": "Michelangelo"
+  },
+  {
+    "id": 159,
+    "question_en": "How many time zones are there in Russia?",
+    "question_roman": "Russia mein kitne time zones hain?",
+    "options": ["8", "9", "10", "11"],
+    "answer": "11"
+  },
+  {
+    "id": 160,
+    "question_en": "What does a barometer measure?",
+    "question_roman": "Barometer kya cheez mapta hai?",
+    "options": ["Temperature", "Wind Speed", "Atmospheric Pressure", "Humidity"],
+    "answer": "Atmospheric Pressure"
+  },
+  {
+    "id": 161,
+    "question_en": "Which band released the hit song 'Bohemian Rhapsody'?",
+    "question_roman": "Mashhoor gana 'Bohemian Rhapsody' kis band ne release kiya tha?",
+    "options": ["The Beatles", "Led Zeppelin", "Queen", "The Rolling Stones"],
+    "answer": "Queen"
+  },
+  {
+    "id": 162,
+    "question_en": "What is the capital city of South Africa?",
+    "question_roman": "South Africa ka darul hakumat konsa shehar hai?",
+    "options": ["Cape Town", "Johannesburg", "Durban", "Pretoria"],
+    "answer": "Pretoria"
+  },
+  {
+    "id": 163,
+    "question_en": "In what year did the American Civil War begin?",
+    "question_roman": "American Civil War (khana jangi) kis saal shuru hui?",
+    "options": ["1855", "1861", "1865", "1870"],
+    "answer": "1861"
+  },
+  {
+    "id": 164,
+    "question_en": "What is the name of the galaxy closest to the Milky Way?",
+    "question_roman": "Milky Way ke sab se qareeb kehkashan ka naam kya hai?",
+    "options": ["Andromeda Galaxy", "Triangulum Galaxy", "Whirlpool Galaxy", "Sombrero Galaxy"],
+    "answer": "Andromeda Galaxy"
+  },
+  {
+    "id": 165,
+    "question_en": "Who wrote 'The Adventures of Sherlock Holmes'?",
+    "question_roman": "'The Adventures of Sherlock Holmes' kis ne likhi?",
+    "options": ["Agatha Christie", "Arthur Conan Doyle", "Charles Dickens", "Edgar Allan Poe"],
+    "answer": "Arthur Conan Doyle"
+  },
+  {
+    "id": 166,
+    "question_en": "Which is the fastest land animal?",
+    "question_roman": "Zameen par sab se taiz raftaar janwar konsa hai?",
+    "options": ["Lion", "Pronghorn Antelope", "Cheetah", "Wildebeest"],
+    "answer": "Cheetah"
+  },
+  {
+    "id": 167,
+    "question_en": "What is the term for a word that reads the same forwards and backwards?",
+    "question_roman": "Us lafz ko kya kehte hain jo aagay aur peechay se aik jaisa parha jaye?",
+    "options": ["Synonym", "Antonym", "Palindrome", "Acronym"],
+    "answer": "Palindrome"
+  },
+  {
+    "id": 168,
+    "question_en": "Which planet is famous for the Great Red Spot?",
+    "question_roman": "Konsa sayara 'Great Red Spot' ke liye mashhoor hai?",
+    "options": ["Mars", "Saturn", "Jupiter", "Neptune"],
+    "answer": "Jupiter"
+  },
+  {
+    "id": 169,
+    "question_en": "In what city is the Golden Gate Bridge located?",
+    "question_roman": "Golden Gate Bridge kis shehar mein waqay hai?",
+    "options": ["New York", "Los Angeles", "San Francisco", "Chicago"],
+    "answer": "San Francisco"
+  },
+  {
+    "id": 170,
+    "question_en": "Who played the character of Iron Man in the Marvel Cinematic Universe?",
+    "question_roman": "Marvel Cinematic Universe mein Iron Man ka kirdar kis ne nibhaya?",
+    "options": ["Chris Evans", "Mark Ruffalo", "Chris Hemsworth", "Robert Downey Jr."],
+    "answer": "Robert Downey Jr."
+  },
+  {
+    "id": 171,
+    "question_en": "What is the chemical symbol for potassium?",
+    "question_roman": "Potassium ka chemical symbol kya hai?",
+    "options": ["P", "Po", "K", "Pt"],
+    "answer": "K"
+  },
+  {
+    "id": 172,
+    "question_en": "The historical city of Petra is in which modern-day country?",
+    "question_roman": "Tareekhi shehar Petra aaj ke kis mulk mein hai?",
+    "options": ["Egypt", "Syria", "Jordan", "Lebanon"],
+    "answer": "Jordan"
+  },
+  {
+    "id": 173,
+    "question_en": "How many Grand Slam tournaments are there in tennis?",
+    "question_roman": "Tennis mein kitne Grand Slam tournaments hotay hain?",
+    "options": ["Three", "Four", "Five", "Six"],
+    "answer": "Four"
+  },
+  {
+    "id": 174,
+    "question_en": "What is the capital city of Portugal?",
+    "question_roman": "Portugal ka darul hakumat konsa shehar hai?",
+    "options": ["Porto", "Lisbon", "Madrid", "Faro"],
+    "answer": "Lisbon"
+  },
+  {
+    "id": 175,
+    "question_en": "Who was the second man to walk on the moon?",
+    "question_roman": "Chand par qadam rakhne wala doosra insan kon tha?",
+    "options": ["Neil Armstrong", "Michael Collins", "Yuri Gagarin", "Buzz Aldrin"],
+    "answer": "Buzz Aldrin"
+  },
+  {
+    "id": 176,
+    "question_en": "What is the name of the currency used in India?",
+    "question_roman": "Hindustan mein istemal honay wali currency ka naam kya hai?",
+    "options": ["Taka", "Rupiah", "Rupee", "Ringgit"],
+    "answer": "Rupee"
+  },
+  {
+    "id": 177,
+    "question_en": "Which famous composer was deaf for the last part of his life?",
+    "question_roman": "Konsa mashhoor composer apni zindagi ke aakhri hissay mein behra ho gaya tha?",
+    "options": ["Mozart", "Bach", "Beethoven", "Chopin"],
+    "answer": "Beethoven"
+  },
+  {
+    "id": 178,
+    "question_en": "What is the study of fossils called?",
+    "question_roman": "Fossils ke mutalay ko kya kehte hain?",
+    "options": ["Archaeology", "Paleontology", "Geology", "Anthropology"],
+    "answer": "Paleontology"
+  },
+  {
+    "id": 179,
+    "question_en": "Which is the highest mountain in Africa?",
+    "question_roman": "Africa ka sab se ooncha pahar konsa hai?",
+    "options": ["Mount Kenya", "Mount Stanley", "Mount Kilimanjaro", "Mount Meru"],
+    "answer": "Mount Kilimanjaro"
+  },
+  {
+    "id": 180,
+    "question_en": "What is the main programming language used for iOS app development?",
+    "question_roman": "iOS app development ke liye istemal honay wali ahem programming language konsi hai?",
+    "options": ["Java", "Kotlin", "Swift", "C++"],
+    "answer": "Swift"
+  },
+  {
+    "id": 181,
+    "question_en": "In which city would you find the Brandenburg Gate?",
+    "question_roman": "Brandenburg Gate aapko kis shehar mein milay ga?",
+    "options": ["Vienna", "Prague", "Munich", "Berlin"],
+    "answer": "Berlin"
+  },
+  {
+    "id": 182,
+    "question_en": "Who wrote 'The Catcher in the Rye'?",
+    "question_roman": "'The Catcher in the Rye' kis ne likha?",
+    "options": ["Ernest Hemingway", "F. Scott Fitzgerald", "J.D. Salinger", "Mark Twain"],
+    "answer": "J.D. Salinger"
+  },
+  {
+    "id": 183,
+    "question_en": "What is the largest internal organ in the human body?",
+    "question_roman": "Insani jism ka sab se bara androoni azoo (organ) konsa hai?",
+    "options": ["Lungs", "Heart", "Brain", "Liver"],
+    "answer": "Liver"
+  },
+  {
+    "id": 184,
+    "question_en": "Which country is known for the tango dance?",
+    "question_roman": "Konsa mulk tango dance ke liye jana jata hai?",
+    "options": ["Spain", "Brazil", "Argentina", "Mexico"],
+    "answer": "Argentina"
+  },
+  {
+    "id": 185,
+    "question_en": "What is the name of the supercontinent that existed millions of years ago?",
+    "question_roman": "Laakhon saal pehle mojood supercontinent ka naam kya tha?",
+    "options": ["Gondwana", "Laurasia", "Pangaea", "Rodinia"],
+    "answer": "Pangaea"
+  },
+  {
+    "id": 186,
+    "question_en": "Who directed the movie 'Forrest Gump'?",
+    "question_roman": "Film 'Forrest Gump' ke director kon hain?",
+    "options": ["Steven Spielberg", "Quentin Tarantino", "Robert Zemeckis", "Martin Scorsese"],
+    "answer": "Robert Zemeckis"
+  },
+  {
+    "id": 187,
+    "question_en": "What is the capital of Sweden?",
+    "question_roman": "Sweden ka darul hakumat kya hai?",
+    "options": ["Oslo", "Copenhagen", "Stockholm", "Helsinki"],
+    "answer": "Stockholm"
+  },
+  {
+    "id": 188,
+    "question_en": "Which gas do plants absorb from the atmosphere for photosynthesis?",
+    "question_roman": "Poday photosynthesis ke liye fiza se konsi gas jazb karte hain?",
+    "options": ["Oxygen", "Nitrogen", "Carbon Dioxide", "Hydrogen"],
+    "answer": "Carbon Dioxide"
+  },
+  {
+    "id": 189,
+    "question_en": "What is the world's most venomous fish?",
+    "question_roman": "Dunya ki sab se zehrili machli konsi hai?",
+    "options": ["Pufferfish", "Lionfish", "Stonefish", "Box Jellyfish"],
+    "answer": "Stonefish"
+  },
+  {
+    "id": 190,
+    "question_en": "Who was the first emperor of China?",
+    "question_roman": "Cheen ka pehla shehenshah kon tha?",
+    "options": ["Kublai Khan", "Sun Yat-sen", "Qin Shi Huang", "Mao Zedong"],
+    "answer": "Qin Shi Huang"
+  },
+  {
+    "id": 191,
+    "question_en": "What is the name of the fictional city where Batman operates?",
+    "question_roman": "Us farzi shehar ka naam kya hai jahan Batman kaam karta hai?",
+    "options": ["Metropolis", "Star City", "Central City", "Gotham City"],
+    "answer": "Gotham City"
+  },
+  {
+    "id": 192,
+    "question_en": "Which planet has the most moons in our solar system?",
+    "question_roman": "Hamare nizam-e-shamsi mein kis sayaray ke sab se zyada chand hain?",
+    "options": ["Jupiter", "Uranus", "Saturn", "Neptune"],
+    "answer": "Saturn"
+  },
+  {
+    "id": 193,
+    "question_en": "What is the fear of clowns called?",
+    "question_roman": "Clowns ke darr ko kya kehte hain?",
+    "options": ["Coulrophobia", "Cynophobia", "Astraphobia", "Trypanophobia"],
+    "answer": "Coulrophobia"
+  },
+  {
+    "id": 194,
+    "question_en": "In which sport is the 'Stanley Cup' awarded?",
+    "question_roman": "'Stanley Cup' kis khel mein diya jata hai?",
+    "options": ["Baseball", "American Football", "Ice Hockey", "Basketball"],
+    "answer": "Ice Hockey"
+  },
+  {
+    "id": 195,
+    "question_en": "Which country is the largest by population in Africa?",
+    "question_roman": "Africa mein abadi ke lihaz se sab se bara mulk konsa hai?",
+    "options": ["Ethiopia", "Egypt", "Nigeria", "DR Congo"],
+    "answer": "Nigeria"
+  },
+  {
+    "id": 196,
+    "question_en": "What does 'NASA' stand for?",
+    "question_roman": "NASA ka kya matlab hai?",
+    "options": ["National Aeronautics and Space Administration", "North American Space Agency", "National Aerospace and Science Administration", "New Aeronautics and Space Agency"],
+    "answer": "National Aeronautics and Space Administration"
+  },
+  {
+    "id": 197,
+    "question_en": "Who wrote 'Pride and Prejudice'?",
+    "question_roman": "'Pride and Prejudice' kis ne likha?",
+    "options": ["Emily Brontë", "Charlotte Brontë", "Mary Shelley", "Jane Austen"],
+    "answer": "Jane Austen"
+  },
+  {
+    "id": 198,
+    "question_en": "Which country's flag is known as the 'Union Jack'?",
+    "question_roman": "Kis mulk ka jhanda 'Union Jack' kehlata hai?",
+    "options": ["Australia", "Canada", "New Zealand", "United Kingdom"],
+    "answer": "United Kingdom"
+  },
+  {
+    "id": 199,
+    "question_en": "What is the name of the dog in 'The Simpsons'?",
+    "question_roman": "'The Simpsons' mein kuttay ka naam kya hai?",
+    "options": ["Snowball II", "Santa's Little Helper", "Brian", "Pluto"],
+    "answer": "Santa's Little Helper"
+  },
+  {
+    "id": 200,
+    "question_en": "What is the hardest known mineral?",
+    "question_roman": "Sab se sakht ma'daniyat konsi hai?",
+    "options": ["Quartz", "Topaz", "Corundum", "Diamond"],
+    "answer": "Diamond"
+  }, 
+  {
+    "id": 201,
+    "question_en": "What is the capital city of Germany?",
+    "question_roman": "Germany ka darul hakumat konsa shehar hai?",
+    "options": ["Munich", "Hamburg", "Frankfurt", "Berlin"],
+    "answer": "Berlin"
+  },
+  {
+    "id": 202,
+    "question_en": "In Norse mythology, who is the god of thunder?",
+    "question_roman": "Norse devmala mein, garaj ka devta kon hai?",
+    "options": ["Odin", "Loki", "Thor", "Freyr"],
+    "answer": "Thor"
+  },
+  {
+    "id": 203,
+    "question_en": "Which video game franchise features characters like Mario and Luigi?",
+    "question_roman": "Kis video game franchise mein Mario aur Luigi jaise kirdar hain?",
+    "options": ["The Legend of Zelda", "Sonic the Hedgehog", "Super Mario", "Donkey Kong"],
+    "answer": "Super Mario"
+  },
+  {
+    "id": 204,
+    "question_en": "What is the largest bone in the human arm?",
+    "question_roman": "Insani baazu mein sab se bari haddi konsi hai?",
+    "options": ["Radius", "Ulna", "Humerus", "Scapula"],
+    "answer": "Humerus"
+  },
+  {
+    "id": 205,
+    "question_en": "Who wrote the novel 'Frankenstein'?",
+    "question_roman": "Novel 'Frankenstein' kis ne likha?",
+    "options": ["Jane Austen", "Mary Shelley", "Emily Brontë", "George Eliot"],
+    "answer": "Mary Shelley"
+  },
+  {
+    "id": 206,
+    "question_en": "Which two countries share the longest international border?",
+    "question_roman": "Kin do mumalik ki sarhad dunya ki sab se lambi bain-ul-aqwami sarhad hai?",
+    "options": ["USA and Mexico", "China and Russia", "Canada and USA", "Argentina and Chile"],
+    "answer": "Canada and USA"
+  },
+  {
+    "id": 207,
+    "question_en": "What is the name of the ship on which Charles Darwin made his famous voyage?",
+    "question_roman": "Us jahaz ka naam kya tha jis par Charles Darwin ne apna mashhoor safar kiya tha?",
+    "options": ["HMS Endeavour", "HMS Beagle", "HMS Victory", "HMS Discovery"],
+    "answer": "HMS Beagle"
+  },
+  {
+    "id": 208,
+    "question_en": "Which film won the first-ever Academy Award for Best Picture?",
+    "question_roman": "Kis film ne sab se pehla Academy Award for Best Picture jeeta tha?",
+    "options": ["The Jazz Singer", "Metropolis", "Wings", "Sunrise"],
+    "answer": "Wings"
+  },
+  {
+    "id": 209,
+    "question_en": "What is the primary function of the kidneys?",
+    "question_roman": "Gurdon (kidneys) ka bunyadi kaam kya hai?",
+    "options": ["Digesting food", "Pumping blood", "Filtering waste from blood", "Producing hormones"],
+    "answer": "Filtering waste from blood"
+  },
+  {
+    "id": 210,
+    "question_en": "Who was the legendary king of Camelot?",
+    "question_roman": "Camelot ka lassaani badshah kon tha?",
+    "options": ["Sir Lancelot", "Merlin", "King Arthur", "Sir Galahad"],
+    "answer": "King Arthur"
+  },
+  {
+    "id": 211,
+    "question_en": "What does the 'A' in 'Scuba' stand for?",
+    "question_roman": "'Scuba' mein 'A' ka kya matlab hai?",
+    "options": ["Apparatus", "Aquatic", "Air", "Atmospheric"],
+    "answer": "Apparatus"
+  },
+  {
+    "id": 212,
+    "question_en": "The Great Barrier Reef is located off the coast of which country?",
+    "question_roman": "Great Barrier Reef kis mulk ke sahil par waqay hai?",
+    "options": ["Brazil", "Australia", "Indonesia", "Mexico"],
+    "answer": "Australia"
+  },
+  {
+    "id": 213,
+    "question_en": "What is the capital of Vietnam?",
+    "question_roman": "Vietnam ka darul hakumat kya hai?",
+    "options": ["Ho Chi Minh City", "Da Nang", "Hanoi", "Haiphong"],
+    "answer": "Hanoi"
+  },
+  {
+    "id": 214,
+    "question_en": "Which famous battle was fought in 1066?",
+    "question_roman": "1066 mein konsi mashhoor jang lari gayi thi?",
+    "options": ["Battle of Agincourt", "Battle of Waterloo", "Battle of Hastings", "Battle of Trafalgar"],
+    "answer": "Battle of Hastings"
+  },
+  {
+    "id": 215,
+    "question_en": "What is the collective name for a group of lions?",
+    "question_roman": "Sheron ke jhund ko majmoi tor par kya kehte hain?",
+    "options": ["A pack", "A herd", "A pride", "A flock"],
+    "answer": "A pride"
+  },
+  {
+    "id": 216,
+    "question_en": "Who is the protagonist of the video game series 'The Legend of Zelda'?",
+    "question_roman": "Video game series 'The Legend of Zelda' ka markazi kirdar kon hai?",
+    "options": ["Zelda", "Ganon", "Link", "Impa"],
+    "answer": "Link"
+  },
+  {
+    "id": 217,
+    "question_en": "What is the chemical symbol for lead?",
+    "question_roman": "Seesay (lead) ka chemical symbol kya hai?",
+    "options": ["Ld", "Le", "Pb", "Pd"],
+    "answer": "Pb"
+  },
+  {
+    "id": 218,
+    "question_en": "Which mountain range separates Europe and Asia?",
+    "question_roman": "Konsa pahari silsila Europe aur Asia ko alag karta hai?",
+    "options": ["The Alps", "The Himalayas", "The Andes", "The Ural Mountains"],
+    "answer": "The Ural Mountains"
+  },
+  {
+    "id": 219,
+    "question_en": "In 'Alice in Wonderland', what does the White Rabbit always carry?",
+    "question_roman": "'Alice in Wonderland' mein, safed khargosh hamesha kya uthaye rakhta hai?",
+    "options": ["A hat", "A fan", "A pocket watch", "An umbrella"],
+    "answer": "A pocket watch"
+  },
+  {
+    "id": 220,
+    "question_en": "What is the capital of Morocco?",
+    "question_roman": "Morocco ka darul hakumat kya hai?",
+    "options": ["Casablanca", "Marrakesh", "Fes", "Rabat"],
+    "answer": "Rabat"
+  },
+  {
+    "id": 221,
+    "question_en": "Which U.S. state is known as the 'Sunshine State'?",
+    "question_roman": "Kis Amreeki riyasat ko 'Sunshine State' ke naam se jana jata hai?",
+    "options": ["California", "Florida", "Arizona", "Texas"],
+    "answer": "Florida"
+  },
+  {
+    "id": 222,
+    "question_en": "Who discovered the law of planetary motion?",
+    "question_roman": "Sayaron ki harkat ka qanoon kis ne daryaft kiya?",
+    "options": ["Galileo Galilei", "Nicolaus Copernicus", "Johannes Kepler", "Isaac Newton"],
+    "answer": "Johannes Kepler"
+  },
+  {
+    "id": 223,
+    "question_en": "What is the world's most widely consumed meat?",
+    "question_roman": "Dunya mein sab se zyada khaya jane wala gosht konsa hai?",
+    "options": ["Beef", "Chicken", "Pork", "Lamb"],
+    "answer": "Pork"
+  },
+  {
+    "id": 224,
+    "question_en": "Which country invented paper?",
+    "question_roman": "Kaghaz kis mulk ne ijaad kiya?",
+    "options": ["Egypt", "Greece", "China", "India"],
+    "answer": "China"
+  },
+  {
+    "id": 225,
+    "question_en": "Who is the author of 'The Chronicles of Narnia' series?",
+    "question_roman": "'The Chronicles of Narnia' series ka musannif kon hai?",
+    "options": ["J.R.R. Tolkien", "C.S. Lewis", "Roald Dahl", "J.K. Rowling"],
+    "answer": "C.S. Lewis"
+  },
+  {
+    "id": 226,
+    "question_en": "In which city is the headquarters of the United Nations located?",
+    "question_roman": "Aqwam-e-Muttahida (United Nations) ka sadar daftar kis shehar mein hai?",
+    "options": ["Geneva", "Vienna", "The Hague", "New York City"],
+    "answer": "New York City"
+  },
+  {
+    "id": 227,
+    "question_en": "What is the name of the theory that describes the origin of the universe?",
+    "question_roman": "Us nazariye ka naam kya hai jo kainat ki ibtida ko bayan karta hai?",
+    "options": ["String Theory", "Theory of Relativity", "Big Bang Theory", "Quantum Theory"],
+    "answer": "Big Bang Theory"
+  },
+  {
+    "id": 228,
+    "question_en": "What is the capital of Denmark?",
+    "question_roman": "Denmark ka darul hakumat kya hai?",
+    "options": ["Oslo", "Stockholm", "Copenhagen", "Helsinki"],
+    "answer": "Copenhagen"
+  },
+  {
+    "id": 229,
+    "question_en": "Which instrument is used to measure the intensity of an earthquake?",
+    "question_roman": "Zalzale ki shiddat mapne ke liye konsa aala istemal hota hai?",
+    "options": ["Barometer", "Seismograph", "Anemometer", "Hygrometer"],
+    "answer": "Seismograph"
+  },
+  {
+    "id": 230,
+    "question_en": "Who painted 'The Last Supper'?",
+    "question_roman": "'The Last Supper' ki painting kis ne banayi?",
+    "options": ["Michelangelo", "Raphael", "Donatello", "Leonardo da Vinci"],
+    "answer": "Leonardo da Vinci"
+  },
+  {
+    "id": 231,
+    "question_en": "The famous 'Oktoberfest' festival is held annually in which city?",
+    "question_roman": "Mashhoor 'Oktoberfest' tehwar har saal kis shehar mein munaqid hota hai?",
+    "options": ["Berlin", "Hamburg", "Munich", "Frankfurt"],
+    "answer": "Munich"
+  },
+  {
+    "id": 232,
+    "question_en": "What is the process called when a caterpillar turns into a butterfly?",
+    "question_roman": "Jab aik caterpillar titli mein tabdeel hota hai to us amal ko kya kehte hain?",
+    "options": ["Evolution", "Metamorphosis", "Reproduction", "Photosynthesis"],
+    "answer": "Metamorphosis"
+  },
+  {
+    "id": 233,
+    "question_en": "Who was the first female pilot to fly solo across the Atlantic?",
+    "question_roman": "Atlantic ko akele uṛaan bhar kar paar karne wali pehli khatoon pilot kon theen?",
+    "options": ["Bessie Coleman", "Amelia Earhart", "Harriet Quimby", "Jacqueline Cochran"],
+    "answer": "Amelia Earhart"
+  },
+  {
+    "id": 234,
+    "question_en": "What is the capital of Ireland?",
+    "question_roman": "Ireland ka darul hakumat kya hai?",
+    "options": ["Cork", "Galway", "Dublin", "Belfast"],
+    "answer": "Dublin"
+  },
+  {
+    "id": 235,
+    "question_en": "In what decade was the first 'Star Wars' movie released?",
+    "question_roman": "Pehli 'Star Wars' film kis dahai mein release hui thi?",
+    "options": ["1960s", "1970s", "1980s", "1990s"],
+    "answer": "1970s"
+  },
+  {
+    "id": 236,
+    "question_en": "What is the most common blood type in humans?",
+    "question_roman": "Insanon mein sab se aam blood type konsa hai?",
+    "options": ["A+", "B-", "AB+", "O+"],
+    "answer": "O+"
+  },
+  {
+    "id": 237,
+    "question_en": "Mount Rushmore is located in which U.S. state?",
+    "question_roman": "Mount Rushmore America ki kis riyasat mein waqay hai?",
+    "options": ["Wyoming", "Montana", "South Dakota", "Colorado"],
+    "answer": "South Dakota"
+  },
+  {
+    "id": 238,
+    "question_en": "Who is known as the 'father of the computer'?",
+    "question_roman": "Computer ka baani (father of the computer) kisay kaha jata hai?",
+    "options": ["Alan Turing", "Charles Babbage", "Bill Gates", "Steve Jobs"],
+    "answer": "Charles Babbage"
+  },
+  {
+    "id": 239,
+    "question_en": "What is the capital of Peru?",
+    "question_roman": "Peru ka darul hakumat kya hai?",
+    "options": ["Santiago", "Quito", "Bogotá", "Lima"],
+    "answer": "Lima"
+  },
+  {
+    "id": 240,
+    "question_en": "Which famous Roman general was assassinated on the Ides of March?",
+    "question_roman": "Kis mashhoor Roman general ko Ides of March ke din qatal kiya gaya tha?",
+    "options": ["Mark Antony", "Augustus", "Julius Caesar", "Pompey"],
+    "answer": "Julius Caesar"
+  },
+  {
+    "id": 241,
+    "question_en": "What is the longest-running animated TV show in the U.S.?",
+    "question_roman": "America ka sab se lamba chalne wala animated TV show konsa hai?",
+    "options": ["Family Guy", "South Park", "The Simpsons", "SpongeBob SquarePants"],
+    "answer": "The Simpsons"
+  },
+  {
+    "id": 242,
+    "question_en": "What is the name for the scientific study of insects?",
+    "question_roman": "Keeron ke ilmi mutalay ko kya kehte hain?",
+    "options": ["Ornithology", "Entomology", "Herpetology", "Ichthyology"],
+    "answer": "Entomology"
+  },
+  {
+    "id": 243,
+    "question_en": "Which two colors are mixed to make purple?",
+    "question_roman": "Jamni (purple) rang banane ke liye kon se do rang milaye jatay hain?",
+    "options": ["Red and Green", "Blue and Yellow", "Red and Blue", "Yellow and Green"],
+    "answer": "Red and Blue"
+  },
+  {
+    "id": 244,
+    "question_en": "What is the capital of the Philippines?",
+    "question_roman": "Philippines ka darul hakumat kya hai?",
+    "options": ["Quezon City", "Davao City", "Cebu City", "Manila"],
+    "answer": "Manila"
+  },
+  {
+    "id": 245,
+    "question_en": "Who was the last pharaoh of ancient Egypt?",
+    "question_roman": "Qadeem Misr (Egypt) ki aakhri firaun kon thi?",
+    "options": ["Hatshepsut", "Nefertiti", "Cleopatra VII", "Ramesses II"],
+    "answer": "Cleopatra VII"
+  },
+  {
+    "id": 246,
+    "question_en": "In what sport do players compete for the Ryder Cup?",
+    "question_roman": "Khiladi Ryder Cup ke liye kis khel mein muqabla karte hain?",
+    "options": ["Tennis", "Cricket", "Golf", "Rugby"],
+    "answer": "Golf"
+  },
+  {
+    "id": 247,
+    "question_en": "Which metal is liquid at room temperature?",
+    "question_roman": "Konsi dhaat kamray ke darja hararat par maaya (liquid) hoti hai?",
+    "options": ["Gallium", "Mercury", "Bromine", "Cesium"],
+    "answer": "Mercury"
+  },
+  {
+    "id": 248,
+    "question_en": "Who is the main character in the novel 'Moby Dick'?",
+    "question_roman": "Novel 'Moby Dick' ka markazi kirdar kon hai?",
+    "options": ["Ishmael", "Captain Ahab", "Starbuck", "Queequeg"],
+    "answer": "Captain Ahab"
+  },
+  {
+    "id": 249,
+    "question_en": "What is the largest country in South America?",
+    "question_roman": "South America ka sab se bara mulk konsa hai?",
+    "options": ["Argentina", "Colombia", "Brazil", "Peru"],
+    "answer": "Brazil"
+  },
+  {
+    "id": 250,
+    "question_en": "What is the name of the dog in the 'Tintin' comics?",
+    "question_roman": "'Tintin' comics mein kuttay ka naam kya hai?",
+    "options": ["Milo", "Snowy", "Bolt", "Pluto"],
+    "answer": "Snowy"
+  }, 
+  {
+    "id": 251,
+    "question_en": "What is the capital city of Finland?",
+    "question_roman": "Finland ka darul hakumat konsa shehar hai?",
+    "options": ["Oslo", "Stockholm", "Copenhagen", "Helsinki"],
+    "answer": "Helsinki"
+  },
+  {
+    "id": 252,
+    "question_en": "Who wrote 'Alice's Adventures in Wonderland'?",
+    "question_roman": "'Alice's Adventures in Wonderland' kis ne likhi?",
+    "options": ["Roald Dahl", "J.M. Barrie", "Lewis Carroll", "A.A. Milne"],
+    "answer": "Lewis Carroll"
+  },
+  {
+    "id": 253,
+    "question_en": "What is the chemical symbol for sodium?",
+    "question_roman": "Sodium ka chemical symbol kya hai?",
+    "options": ["So", "Sd", "Na", "Sm"],
+    "answer": "Na"
+  },
+  {
+    "id": 254,
+    "question_en": "Which war was fought between the North and South regions of the United States?",
+    "question_roman": "United States ke North aur South ilaqon ke darmiyan konsi jang lari gayi thi?",
+    "options": ["Revolutionary War", "War of 1812", "American Civil War", "World War I"],
+    "answer": "American Civil War"
+  },
+  {
+    "id": 255,
+    "question_en": "In 'The Lion King', what is the name of Simba's father?",
+    "question_roman": "'The Lion King' mein Simba ke walid ka naam kya hai?",
+    "options": ["Scar", "Zazu", "Mufasa", "Timon"],
+    "answer": "Mufasa"
+  },
+  {
+    "id": 256,
+    "question_en": "What is the scientific study of weather called?",
+    "question_roman": "Mausam ke ilmi mutalay ko kya kehte hain?",
+    "options": ["Geology", "Climatology", "Meteorology", "Ecology"],
+    "answer": "Meteorology"
+  },
+  {
+    "id": 257,
+    "question_en": "The ancient city of Timbuktu is located in which modern country?",
+    "question_roman": "Qadeem shehar Timbuktu aaj ke kis mulk mein waqay hai?",
+    "options": ["Nigeria", "Sudan", "Mali", "Ghana"],
+    "answer": "Mali"
+  },
+  {
+    "id": 258,
+    "question_en": "Who directed the classic 1975 film 'Jaws'?",
+    "question_roman": "1975 ki classic film 'Jaws' ke director kon thay?",
+    "options": ["George Lucas", "Francis Ford Coppola", "Martin Scorsese", "Steven Spielberg"],
+    "answer": "Steven Spielberg"
+  },
+  {
+    "id": 259,
+    "question_en": "What is the largest artery in the human body?",
+    "question_roman": "Insani jism ki sab se bari shariyan (artery) konsi hai?",
+    "options": ["Carotid Artery", "Femoral Artery", "Aorta", "Pulmonary Artery"],
+    "answer": "Aorta"
+  },
+  {
+    "id": 260,
+    "question_en": "What is cynophobia?",
+    "question_roman": "Cynophobia kya hai?",
+    "options": ["Fear of cats", "Fear of spiders", "Fear of dogs", "Fear of snakes"],
+    "answer": "Fear of dogs"
+  },
+  {
+    "id": 261,
+    "question_en": "Which artist is famous for painting 'Girl with a Pearl Earring'?",
+    "question_roman": "Konsa fankaar 'Girl with a Pearl Earring' painting ke liye mashhoor hai?",
+    "options": ["Rembrandt", "Johannes Vermeer", "Peter Paul Rubens", "Frans Hals"],
+    "answer": "Johannes Vermeer"
+  },
+  {
+    "id": 262,
+    "question_en": "What is the capital of Poland?",
+    "question_roman": "Poland ka darul hakumat kya hai?",
+    "options": ["Krakow", "Gdansk", "Warsaw", "Wroclaw"],
+    "answer": "Warsaw"
+  },
+  {
+    "id": 263,
+    "question_en": "What is a sommelier an expert in?",
+    "question_roman": "Sommelier kis cheez ka mahir hota hai?",
+    "options": ["Cheese", "Coffee", "Tea", "Wine"],
+    "answer": "Wine"
+  },
+  {
+    "id": 264,
+    "question_en": "In which decade did the Chernobyl disaster occur?",
+    "question_roman": "Chernobyl haadsa kis dahai mein hua tha?",
+    "options": ["1970s", "1980s", "1990s", "2000s"],
+    "answer": "1980s"
+  },
+  {
+    "id": 265,
+    "question_en": "Who wrote the dystopian novel 'Brave New World'?",
+    "question_roman": "Dystopian novel 'Brave New World' kis ne likha?",
+    "options": ["George Orwell", "Aldous Huxley", "Ray Bradbury", "Philip K. Dick"],
+    "answer": "Aldous Huxley"
+  },
+  {
+    "id": 266,
+    "question_en": "What is the capital of Iran?",
+    "question_roman": "Iran ka darul hakumat kya hai?",
+    "options": ["Isfahan", "Shiraz", "Tabriz", "Tehran"],
+    "answer": "Tehran"
+  },
+  {
+    "id": 267,
+    "question_en": "The TV show 'Friends' is famously set in which city?",
+    "question_roman": "Mashhoor TV show 'Friends' kis shehar mein set hai?",
+    "options": ["Los Angeles", "Chicago", "New York City", "Seattle"],
+    "answer": "New York City"
+  },
+  {
+    "id": 268,
+    "question_en": "Which color has the longest wavelength in the visible spectrum?",
+    "question_roman": "Dekhi ja sakne wali roshni (visible spectrum) mein kis rang ki wavelength sab se lambi hoti hai?",
+    "options": ["Blue", "Green", "Yellow", "Red"],
+    "answer": "Red"
+  },
+  {
+    "id": 269,
+    "question_en": "Which country is the original home of the pizza?",
+    "question_roman": "Pizza ka asli watan konsa mulk hai?",
+    "options": ["France", "USA", "Italy", "Greece"],
+    "answer": "Italy"
+  },
+  {
+    "id": 270,
+    "question_en": "What is the name of the galaxy that contains our Solar System?",
+    "question_roman": "Us kehkashan ka naam kya hai jis mein hamara nizam-e-shamsi hai?",
+    "options": ["Andromeda", "Triangulum", "Milky Way", "Pinwheel"],
+    "answer": "Milky Way"
+  },
+  {
+    "id": 271,
+    "question_en": "Which is the largest bird of prey in the world?",
+    "question_roman": "Dunya ka sab se bara shikari parinda konsa hai?",
+    "options": ["Bald Eagle", "Harpy Eagle", "Philippine Eagle", "Andean Condor"],
+    "answer": "Andean Condor"
+  },
+  {
+    "id": 272,
+    "question_en": "In which year did the first man land on the moon?",
+    "question_roman": "Pehla insan chand par kis saal utra tha?",
+    "options": ["1967", "1968", "1969", "1970"],
+    "answer": "1969"
+  },
+  {
+    "id": 273,
+    "question_en": "What is the capital of Hungary?",
+    "question_roman": "Hungary ka darul hakumat kya hai?",
+    "options": ["Prague", "Vienna", "Bratislava", "Budapest"],
+    "answer": "Budapest"
+  },
+  {
+    "id": 274,
+    "question_en": "Who invented the World Wide Web?",
+    "question_roman": "World Wide Web kis ne ijaad kiya?",
+    "options": ["Bill Gates", "Steve Jobs", "Tim Berners-Lee", "Vint Cerf"],
+    "answer": "Tim Berners-Lee"
+  },
+  {
+    "id": 275,
+    "question_en": "What is the main ingredient of hummus?",
+    "question_roman": "Hummus ka bunyadi juz kya hai?",
+    "options": ["Lentils", "Chickpeas", "Black Beans", "Soybeans"],
+    "answer": "Chickpeas"
+  },
+  {
+    "id": 276,
+    "question_en": "Which famous Roman emperor had a horse as his consul?",
+    "question_roman": "Kis mashhoor Roman shehenshah ne apne ghore ko consul banaya tha?",
+    "options": ["Nero", "Augustus", "Caligula", "Claudius"],
+    "answer": "Caligula"
+  },
+  {
+    "id": 277,
+    "question_en": "What is the name of the fictional African country in 'Black Panther'?",
+    "question_roman": "'Black Panther' mein farzi African mulk ka naam kya hai?",
+    "options": ["Genosha", "Zamunda", "Wakanda", "Latveria"],
+    "answer": "Wakanda"
+  },
+  {
+    "id": 278,
+    "question_en": "How many strings does a standard violin have?",
+    "question_roman": "Aik mayari violin mein kitni strings hoti hain?",
+    "options": ["Four", "Five", "Six", "Seven"],
+    "answer": "Four"
+  },
+  {
+    "id": 279,
+    "question_en": "Which is the most abundant metal in the Earth's crust?",
+    "question_roman": "Zameen ke crust mein sab se zyada paya jane wala dhaat konsa hai?",
+    "options": ["Iron", "Copper", "Aluminum", "Silicon"],
+    "answer": "Aluminum"
+  },
+  {
+    "id": 280,
+    "question_en": "What is the capital of Belgium?",
+    "question_roman": "Belgium ka darul hakumat kya hai?",
+    "options": ["Amsterdam", "Luxembourg", "Brussels", "Antwerp"],
+    "answer": "Brussels"
+  },
+  {
+    "id": 281,
+    "question_en": "Who wrote the epic poem 'Paradise Lost'?",
+    "question_roman": "Razmia nazm 'Paradise Lost' kis ne likhi?",
+    "options": ["William Shakespeare", "Geoffrey Chaucer", "John Milton", "John Donne"],
+    "answer": "John Milton"
+  },
+  {
+    "id": 282,
+    "question_en": "Which is the smallest ocean in the world?",
+    "question_roman": "Dunya ka sab se chota samandar konsa hai?",
+    "options": ["Indian Ocean", "Southern Ocean", "Atlantic Ocean", "Arctic Ocean"],
+    "answer": "Arctic Ocean"
+  },
+  {
+    "id": 283,
+    "question_en": "What is the main power source for the 'DeLorean' time machine in 'Back to the Future'?",
+    "question_roman": "'Back to the Future' mein 'DeLorean' time machine ka bunyadi power source kya hai?",
+    "options": ["Solar Power", "Gasoline", "Plutonium", "A Flux Capacitor"],
+    "answer": "A Flux Capacitor"
+  },
+  {
+    "id": 284,
+    "question_en": "Which is the only vowel on a standard keyboard that is not in the top row?",
+    "question_roman": "Aik mayari keyboard par konsa wahid vowel hai jo oopar wali qitaar mein nahi hai?",
+    "options": ["A", "E", "I", "O"],
+    "answer": "A"
+  },
+  {
+    "id": 285,
+    "question_en": "What is the capital of Austria?",
+    "question_roman": "Austria ka darul hakumat kya hai?",
+    "options": ["Budapest", "Prague", "Vienna", "Zurich"],
+    "answer": "Vienna"
+  },
+  {
+    "id": 286,
+    "question_en": "The ancient Hanging Gardens were one of the seven wonders of which city?",
+    "question_roman": "Qadeem Hanging Gardens kis shehar ke saat ajubaat mein se aik thay?",
+    "options": ["Athens", "Rome", "Alexandria", "Babylon"],
+    "answer": "Babylon"
+  },
+  {
+    "id": 287,
+    "question_en": "Who created the characters of Tom Sawyer and Huckleberry Finn?",
+    "question_roman": "Tom Sawyer aur Huckleberry Finn ke kirdar kis ne takhleeq kiye?",
+    "options": ["Herman Melville", "Nathaniel Hawthorne", "Mark Twain", "William Faulkner"],
+    "answer": "Mark Twain"
+  },
+  {
+    "id": 288,
+    "question_en": "What is the layer of gas surrounding the Earth called?",
+    "question_roman": "Zameen ke gird gas ki teh ko kya kehte hain?",
+    "options": ["Hydrosphere", "Lithosphere", "Atmosphere", "Biosphere"],
+    "answer": "Atmosphere"
+  },
+  {
+    "id": 289,
+    "question_en": "How many dots are there on a pair of dice?",
+    "question_roman": "Paanse (dice) ke aik joray par kitne nuqtay (dots) hotay hain?",
+    "options": ["36", "40", "42", "48"],
+    "answer": "42"
+  },
+  {
+    "id": 290,
+    "question_en": "Who directed the 'The Dark Knight' trilogy?",
+    "question_roman": "'The Dark Knight' trilogy ke director kon hain?",
+    "options": ["Zack Snyder", "J.J. Abrams", "Christopher Nolan", "Joss Whedon"],
+    "answer": "Christopher Nolan"
+  },
+  {
+    "id": 291,
+    "question_en": "What does a cartographer create?",
+    "question_roman": "Cartographer kya banata hai?",
+    "options": ["Carts", "Sculptures", "Maps", "Clothing"],
+    "answer": "Maps"
+  },
+  {
+    "id": 292,
+    "question_en": "What is the capital of Egypt?",
+    "question_roman": "Misr (Egypt) ka darul hakumat kya hai?",
+    "options": ["Alexandria", "Giza", "Luxor", "Cairo"],
+    "answer": "Cairo"
+  },
+  {
+    "id": 293,
+    "question_en": "Which famous artist is associated with the Cubism movement?",
+    "question_roman": "Konsa mashhoor fankaar Cubism tehreek se wabasta hai?",
+    "options": ["Salvador Dalí", "Claude Monet", "Pablo Picasso", "Vincent van Gogh"],
+    "answer": "Pablo Picasso"
+  },
+  {
+    "id": 294,
+    "question_en": "What is the currency of Russia?",
+    "question_roman": "Russia ki currency kya hai?",
+    "options": ["Rupee", "Ruble", "Yuan", "Euro"],
+    "answer": "Ruble"
+  },
+  {
+    "id": 295,
+    "question_en": "Which planet is the hottest in our solar system?",
+    "question_roman": "Hamare nizam-e-shamsi ka sab se garam sayara konsa hai?",
+    "options": ["Mercury", "Venus", "Mars", "Jupiter"],
+    "answer": "Venus"
+  },
+  {
+    "id": 296,
+    "question_en": "In what country is the Christ the Redeemer statue located?",
+    "question_roman": "Christ the Redeemer ka mujassama kis mulk mein waqay hai?",
+    "options": ["Mexico", "Peru", "Brazil", "Argentina"],
+    "answer": "Brazil"
+  },
+  {
+    "id": 297,
+    "question_en": "What is the world's longest-running play?",
+    "question_roman": "Dunya ka sab se lamba chalne wala play konsa hai?",
+    "options": ["Hamlet", "The Phantom of the Opera", "Les Misérables", "The Mousetrap"],
+    "answer": "The Mousetrap"
+  },
+  {
+    "id": 298,
+    "question_en": "What is the name of the monster in Mary Shelley's 'Frankenstein'?",
+    "question_roman": "Mary Shelley ke 'Frankenstein' mein canavar (monster) ka naam kya hai?",
+    "options": ["Igor", "Dracula", "The monster has no name", "Adam"],
+    "answer": "The monster has no name"
+  },
+  {
+    "id": 299,
+    "question_en": "What is the capital of Saudi Arabia?",
+    "question_roman": "Saudi Arabia ka darul hakumat kya hai?",
+    "options": ["Jeddah", "Mecca", "Medina", "Riyadh"],
+    "answer": "Riyadh"
+  },
+  {
+    "id": 300,
+    "question_en": "Which technology is used to make contactless payments?",
+    "question_roman": "Contactless payments karne ke liye konsi technology istemal hoti hai?",
+    "options": ["Bluetooth", "Wi-Fi", "NFC (Near Field Communication)", "Infrared"],
+    "answer": "NFC (Near Field Communication)"
+  }, 
+  {
+    "id": 301,
+    "question_en": "What is the capital city of Greece?",
+    "question_roman": "Greece ka darul hakumat konsa shehar hai?",
+    "options": ["Sparta", "Thessaloniki", "Athens", "Patras"],
+    "answer": "Athens"
+  },
+  {
+    "id": 302,
+    "question_en": "Which famous conqueror was a student of the philosopher Aristotle?",
+    "question_roman": "Konsa mashhoor fateh falsafi Aristotle ka shagird tha?",
+    "options": ["Julius Caesar", "Genghis Khan", "Alexander the Great", "Charlemagne"],
+    "answer": "Alexander the Great"
+  },
+  {
+    "id": 303,
+    "question_en": "What is the largest type of big cat in the world?",
+    "question_roman": "Dunya mein bari billi ki sab se bari qisam konsi hai?",
+    "options": ["Lion", "Jaguar", "Leopard", "Tiger"],
+    "answer": "Tiger"
+  },
+  {
+    "id": 304,
+    "question_en": "What does 'GPS' stand for?",
+    "question_roman": "GPS ka kya matlab hai?",
+    "options": ["Global Positioning System", "General Placement Service", "Global Pathfinding System", "Geographic Positioning Service"],
+    "answer": "Global Positioning System"
+  },
+  {
+    "id": 305,
+    "question_en": "Who wrote the novel 'Don Quixote'?",
+    "question_roman": "Novel 'Don Quixote' kis ne likha?",
+    "options": ["Gabriel García Márquez", "Jorge Luis Borges", "Miguel de Cervantes", "Pablo Neruda"],
+    "answer": "Miguel de Cervantes"
+  },
+  {
+    "id": 306,
+    "question_en": "In which city is the 'La Sagrada Familia' church located?",
+    "question_roman": "'La Sagrada Familia' church kis shehar mein waqay hai?",
+    "options": ["Madrid", "Seville", "Lisbon", "Barcelona"],
+    "answer": "Barcelona"
+  },
+  {
+    "id": 307,
+    "question_en": "What is the main gas that makes up the Sun?",
+    "question_roman": "Suraj mein bunyadi tor par konsi gas hai?",
+    "options": ["Oxygen", "Helium", "Hydrogen", "Carbon"],
+    "answer": "Hydrogen"
+  },
+  {
+    "id": 308,
+    "question_en": "Who played the character of Captain Jack Sparrow in the 'Pirates of the Caribbean' series?",
+    "question_roman": "'Pirates of the Caribbean' series mein Captain Jack Sparrow ka kirdar kis ne nibhaya?",
+    "options": ["Orlando Bloom", "Geoffrey Rush", "Johnny Depp", "Javier Bardem"],
+    "answer": "Johnny Depp"
+  },
+  {
+    "id": 309,
+    "question_en": "What is the capital of Cuba?",
+    "question_roman": "Cuba ka darul hakumat kya hai?",
+    "options": ["Santiago de Cuba", "Trinidad", "Havana", "Varadero"],
+    "answer": "Havana"
+  },
+  {
+    "id": 310,
+    "question_en": "Which planet is known as the 'Jewel of the Solar System'?",
+    "question_roman": "Kis sayaray ko 'Nizam-e-Shamsi ka Johar' kaha jata hai?",
+    "options": ["Jupiter", "Venus", "Saturn", "Uranus"],
+    "answer": "Saturn"
+  },
+  {
+    "id": 311,
+    "question_en": "What is the name of the river that flows through London?",
+    "question_roman": "London se guzarnay walay darya ka naam kya hai?",
+    "options": ["River Thames", "River Severn", "River Trent", "River Mersey"],
+    "answer": "River Thames"
+  },
+  {
+    "id": 312,
+    "question_en": "Who invented the telephone?",
+    "question_roman": "Telephone kis ne ijaad kiya?",
+    "options": ["Thomas Edison", "Nikola Tesla", "Alexander Graham Bell", "Guglielmo Marconi"],
+    "answer": "Alexander Graham Bell"
+  },
+  {
+    "id": 313,
+    "question_en": "The Acropolis is a famous ancient citadel located in which city?",
+    "question_roman": "Acropolis aik mashhoor qadeem qila hai jo kis shehar mein waqay hai?",
+    "options": ["Rome", "Cairo", "Istanbul", "Athens"],
+    "answer": "Athens"
+  },
+  {
+    "id": 314,
+    "question_en": "Which element's chemical symbol is 'W'?",
+    "question_roman": "Kis anasir (element) ka chemical symbol 'W' hai?",
+    "options": ["Silver", "Gold", "Tungsten", "Iron"],
+    "answer": "Tungsten"
+  },
+  {
+    "id": 315,
+    "question_en": "Which band was famously known as 'The Fab Four'?",
+    "question_roman": "Konsa band 'The Fab Four' ke naam se mashhoor tha?",
+    "options": ["The Rolling Stones", "The Who", "The Beatles", "Led Zeppelin"],
+    "answer": "The Beatles"
+  },
+  {
+    "id": 316,
+    "question_en": "What is the capital of Indonesia?",
+    "question_roman": "Indonesia ka darul hakumat kya hai?",
+    "options": ["Bali", "Surabaya", "Bandung", "Jakarta"],
+    "answer": "Jakarta"
+  },
+  {
+    "id": 317,
+    "question_en": "Which historical period is known as the 'Age of Discovery'?",
+    "question_roman": "Kis tareekhi daur ko 'Daryafton ka Daur' kaha jata hai?",
+    "options": ["The Middle Ages", "The Renaissance", "The Age of Exploration", "The Industrial Revolution"],
+    "answer": "The Age of Exploration"
+  },
+  {
+    "id": 318,
+    "question_en": "What is the world's highest-grossing film of all time (unadjusted for inflation)?",
+    "question_roman": "Dunya ki sab se zyada kamai karne wali film konsi hai (inflation ke baghair)?",
+    "options": ["Titanic", "Avatar", "Avengers: Endgame", "Star Wars: The Force Awakens"],
+    "answer": "Avatar"
+  },
+  {
+    "id": 319,
+    "question_en": "What is the scientific study of plants called?",
+    "question_roman": "Podon ke ilmi mutalay ko kya kehte hain?",
+    "options": ["Zoology", "Mycology", "Botany", "Ecology"],
+    "answer": "Botany"
+  },
+  {
+    "id": 320,
+    "question_en": "Who wrote 'One Hundred Years of Solitude'?",
+    "question_roman": "'One Hundred Years of Solitude' kis ne likhi?",
+    "options": ["Jorge Luis Borges", "Pablo Neruda", "Gabriel García Márquez", "Mario Vargas Llosa"],
+    "answer": "Gabriel García Márquez"
+  },
+  {
+    "id": 321,
+    "question_en": "Which country is home to the ancient city of Machu Picchu?",
+    "question_roman": "Qadeem shehar Machu Picchu kis mulk mein hai?",
+    "options": ["Bolivia", "Colombia", "Ecuador", "Peru"],
+    "answer": "Peru"
+  },
+  {
+    "id": 322,
+    "question_en": "What is the capital of Israel?",
+    "question_roman": "Israel ka darul hakumat kya hai?",
+    "options": ["Tel Aviv", "Haifa", "Jerusalem", "Eilat"],
+    "answer": "Jerusalem"
+  },
+  {
+    "id": 323,
+    "question_en": "What is the smallest unit of matter?",
+    "question_roman": "Maaday (matter) ki sab se choti ikai kya hai?",
+    "options": ["Molecule", "Atom", "Proton", "Electron"],
+    "answer": "Atom"
+  },
+  {
+    "id": 324,
+    "question_en": "In the game of chess, which piece can only move diagonally?",
+    "question_roman": "Shatranj ke khel mein, konsa mohra sirf tircha (diagonally) chal sakta hai?",
+    "options": ["Rook", "Knight", "Bishop", "Pawn"],
+    "answer": "Bishop"
+  },
+  {
+    "id": 325,
+    "question_en": "Who was the first President of South Africa after apartheid?",
+    "question_roman": "Apartheid ke baad South Africa ka pehla sadar kon tha?",
+    "options": ["F.W. de Klerk", "Thabo Mbeki", "Nelson Mandela", "Jacob Zuma"],
+    "answer": "Nelson Mandela"
+  },
+  {
+    "id": 326,
+    "question_en": "What does a lepidopterist study?",
+    "question_roman": "Lepidopterist kis cheez ka mutala karta hai?",
+    "options": ["Birds", "Butterflies and moths", "Spiders", "Fish"],
+    "answer": "Butterflies and moths"
+  },
+  {
+    "id": 327,
+    "question_en": "What is the capital of the United Arab Emirates?",
+    "question_roman": "United Arab Emirates ka darul hakumat kya hai?",
+    "options": ["Dubai", "Sharjah", "Abu Dhabi", "Ajman"],
+    "answer": "Abu Dhabi"
+  },
+  {
+    "id": 328,
+    "question_en": "Which movie features the quote 'Here's looking at you, kid'?",
+    "question_roman": "Kis film mein yeh dialogue 'Here's looking at you, kid' hai?",
+    "options": ["Gone with the Wind", "The Maltese Falcon", "Citizen Kane", "Casablanca"],
+    "answer": "Casablanca"
+  },
+  {
+    "id": 329,
+    "question_en": "Which is the longest river in Asia?",
+    "question_roman": "Asia ka sab se lamba darya konsa hai?",
+    "options": ["Yellow River", "Mekong River", "Yangtze River", "Ganges River"],
+    "answer": "Yangtze River"
+  },
+  {
+    "id": 330,
+    "question_en": "In what year did the French Revolution begin?",
+    "question_roman": "Inqilab-e-France kis saal shuru hua?",
+    "options": ["1776", "1789", "1799", "1804"],
+    "answer": "1789"
+  },
+  {
+    "id": 331,
+    "question_en": "What is the name of the Hobbit who carries the One Ring in 'The Lord of the Rings'?",
+    "question_roman": "'The Lord of the Rings' mein us Hobbit ka naam kya hai jo One Ring uthaye hota hai?",
+    "options": ["Samwise Gamgee", "Bilbo Baggins", "Frodo Baggins", "Pippin Took"],
+    "answer": "Frodo Baggins"
+  },
+  {
+    "id": 332,
+    "question_en": "How many teeth does an adult human typically have?",
+    "question_roman": "Aik baligh insan ke aam tor par kitne daant hotay hain?",
+    "options": ["28", "30", "32", "34"],
+    "answer": "32"
+  },
+  {
+    "id": 333,
+    "question_en": "What is the capital of Pakistan?",
+    "question_roman": "Pakistan ka darul hakumat kya hai?",
+    "options": ["Karachi", "Lahore", "Islamabad", "Rawalpindi"],
+    "answer": "Islamabad"
+  },
+  {
+    "id": 334,
+    "question_en": "Which country is the largest producer of tea in the world?",
+    "question_roman": "Dunya mein chaye paida karne wala sab se bara mulk konsa hai?",
+    "options": ["India", "Sri Lanka", "Kenya", "China"],
+    "answer": "China"
+  },
+  {
+    "id": 335,
+    "question_en": "Who is the Greek goddess of wisdom?",
+    "question_roman": "Yunani devmala mein aqal ki devi kon hai?",
+    "options": ["Hera", "Aphrodite", "Artemis", "Athena"],
+    "answer": "Athena"
+  },
+  {
+    "id": 336,
+    "question_en": "Which English city is famous for its university and a rivalry with Cambridge?",
+    "question_roman": "Konsa Angrezi shehar apni university aur Cambridge se muqablay ke liye mashhoor hai?",
+    "options": ["London", "Manchester", "Oxford", "Bristol"],
+    "answer": "Oxford"
+  },
+  {
+    "id": 337,
+    "question_en": "What is the name of the green pigment in plants?",
+    "question_roman": "Podon mein sabz rang ke pigment ka naam kya hai?",
+    "options": ["Carotene", "Melanin", "Chlorophyll", "Xanthophyll"],
+    "answer": "Chlorophyll"
+  },
+  {
+    "id": 338,
+    "question_en": "Who was the lead actor in the movie 'The Godfather'?",
+    "question_roman": "Film 'The Godfather' mein markazi adakar kon tha?",
+    "options": ["Al Pacino", "Robert De Niro", "Marlon Brando", "James Caan"],
+    "answer": "Marlon Brando"
+  },
+  {
+    "id": 339,
+    "question_en": "What is the capital of Iraq?",
+    "question_roman": "Iraq ka darul hakumat kya hai?",
+    "options": ["Mosul", "Basra", "Erbil", "Baghdad"],
+    "answer": "Baghdad"
+  },
+  {
+    "id": 340,
+    "question_en": "Which famous building is located in Agra, India?",
+    "question_roman": "Hindustan ke shehar Agra mein konsi mashhoor imarat waqay hai?",
+    "options": ["Red Fort", "Qutub Minar", "Taj Mahal", "Hawa Mahal"],
+    "answer": "Taj Mahal"
+  },
+  {
+    "id": 341,
+    "question_en": "In what country would you find the city of Chernobyl?",
+    "question_roman": "Chernobyl shehar aapko kis mulk mein milay ga?",
+    "options": ["Russia", "Belarus", "Ukraine", "Poland"],
+    "answer": "Ukraine"
+  },
+  {
+    "id": 342,
+    "question_en": "What is the name of the first book in the 'Harry Potter' series?",
+    "question_roman": "'Harry Potter' series ki pehli kitab ka naam kya hai?",
+    "options": ["The Chamber of Secrets", "The Prisoner of Azkaban", "The Philosopher's Stone", "The Goblet of Fire"],
+    "answer": "The Philosopher's Stone"
+  },
+  {
+    "id": 343,
+    "question_en": "Which is the largest moon in our solar system?",
+    "question_roman": "Hamare nizam-e-shamsi ka sab se bara chand konsa hai?",
+    "options": ["Titan", "Europa", "Ganymede", "Callisto"],
+    "answer": "Ganymede"
+  },
+  {
+    "id": 344,
+    "question_en": "What is the capital of Mexico?",
+    "question_roman": "Mexico ka darul hakumat kya hai?",
+    "options": ["Guadalajara", "Cancun", "Tijuana", "Mexico City"],
+    "answer": "Mexico City"
+  },
+  {
+    "id": 345,
+    "question_en": "Which artist is known for the sculpture 'David'?",
+    "question_roman": "Konsa fankaar 'David' mujassamay ke liye jana jata hai?",
+    "options": ["Leonardo da Vinci", "Donatello", "Raphael", "Michelangelo"],
+    "answer": "Michelangelo"
+  },
+  {
+    "id": 346,
+    "question_en": "The Hundred Years' War was fought between which two countries?",
+    "question_roman": "Sau Saala Jang kin do mumalik ke darmiyan lari gayi thi?",
+    "options": ["England and France", "Spain and Portugal", "Germany and Russia", "Rome and Carthage"],
+    "answer": "England and France"
+  },
+  {
+    "id": 347,
+    "question_en": "What is the unit of frequency?",
+    "question_roman": "Frequency ki ikai kya hai?",
+    "options": ["Watt", "Joule", "Hertz", "Newton"],
+    "answer": "Hertz"
+  },
+  {
+    "id": 348,
+    "question_en": "Which is the longest-running Broadway show?",
+    "question_roman": "Broadway ka sab se lamba chalne wala show konsa hai?",
+    "options": ["Cats", "Les Misérables", "The Phantom of the Opera", "Chicago"],
+    "answer": "The Phantom of the Opera"
+  },
+  {
+    "id": 349,
+    "question_en": "What is the capital of Scotland?",
+    "question_roman": "Scotland ka darul hakumat kya hai?",
+    "options": ["Glasgow", "Aberdeen", "Dundee", "Edinburgh"],
+    "answer": "Edinburgh"
+  },
+  {
+    "id": 350,
+    "question_en": "What is the name of the droid companion of Luke Skywalker?",
+    "question_roman": "Luke Skywalker ke droid saathi ka naam kya hai?",
+    "options": ["C-3PO", "BB-8", "R2-D2", "K-2SO"],
+    "answer": "R2-D2"
+  }, 
+  {
+    "id": 351,
+    "question_en": "What is the capital of the Netherlands?",
+    "question_roman": "Netherlands ka darul hakumat kya hai?",
+    "options": ["Rotterdam", "The Hague", "Utrecht", "Amsterdam"],
+    "answer": "Amsterdam"
+  },
+  {
+    "id": 352,
+    "question_en": "Who wrote 'The Picture of Dorian Gray'?",
+    "question_roman": "'The Picture of Dorian Gray' kis ne likha?",
+    "options": ["Oscar Wilde", "George Bernard Shaw", "James Joyce", "Virginia Woolf"],
+    "answer": "Oscar Wilde"
+  },
+  {
+    "id": 353,
+    "question_en": "What is the chemical symbol for mercury?",
+    "question_roman": "Paaray (mercury) ka chemical symbol kya hai?",
+    "options": ["Me", "Mc", "Hg", "Mr"],
+    "answer": "Hg"
+  },
+  {
+    "id": 354,
+    "question_en": "The Amazon River flows into which ocean?",
+    "question_roman": "Darya-e-Amazon kis samandar mein ja girta hai?",
+    "options": ["Pacific Ocean", "Indian Ocean", "Atlantic Ocean", "Arctic Ocean"],
+    "answer": "Atlantic Ocean"
+  },
+  {
+    "id": 355,
+    "question_en": "Who directed the 1993 film 'Schindler's List'?",
+    "question_roman": "1993 ki film 'Schindler's List' ke director kon thay?",
+    "options": ["Martin Scorsese", "Francis Ford Coppola", "Steven Spielberg", "James Cameron"],
+    "answer": "Steven Spielberg"
+  },
+  {
+    "id": 356,
+    "question_en": "What does an odometer measure?",
+    "question_roman": "Odometer kya cheez mapta hai?",
+    "options": ["Speed", "Distance traveled", "Fuel consumption", "Tire pressure"],
+    "answer": "Distance traveled"
+  },
+  {
+    "id": 357,
+    "question_en": "The Vikings originated from which modern-day region?",
+    "question_roman": "Vikings ka talluq aaj ke kis ilaqay se tha?",
+    "options": ["The Mediterranean", "Eastern Europe", "Scandinavia", "The British Isles"],
+    "answer": "Scandinavia"
+  },
+  {
+    "id": 358,
+    "question_en": "What is the largest desert in Asia?",
+    "question_roman": "Asia ka sab se bara sehra konsa hai?",
+    "options": ["Thar Desert", "Gobi Desert", "Karakum Desert", "Arabian Desert"],
+    "answer": "Arabian Desert"
+  },
+  {
+    "id": 359,
+    "question_en": "What is the name of the protagonist in the film 'Blade Runner'?",
+    "question_roman": "Film 'Blade Runner' ke markazi kirdar ka naam kya hai?",
+    "options": ["Roy Batty", "Rick Deckard", "Eldon Tyrell", "Gaff"],
+    "answer": "Rick Deckard"
+  },
+  {
+    "id": 360,
+    "question_en": "How many lines does a traditional sonnet have?",
+    "question_roman": "Aik riwayati sonnet mein kitni lines hoti hain?",
+    "options": ["10", "12", "14", "16"],
+    "answer": "14"
+  },
+  {
+    "id": 361,
+    "question_en": "What is the capital of Colombia?",
+    "question_roman": "Colombia ka darul hakumat kya hai?",
+    "options": ["Medellín", "Cali", "Cartagena", "Bogotá"],
+    "answer": "Bogotá"
+  },
+  {
+    "id": 362,
+    "question_en": "What is the scientific study of birds called?",
+    "question_roman": "Parindon ke ilmi mutalay ko kya kehte hain?",
+    "options": ["Herpetology", "Ornithology", "Entomology", "Ichthyology"],
+    "answer": "Ornithology"
+  },
+  {
+    "id": 363,
+    "question_en": "Which band was Kurt Cobain the lead singer of?",
+    "question_roman": "Kurt Cobain kis band ka lead singer tha?",
+    "options": ["Pearl Jam", "Soundgarden", "Nirvana", "Alice in Chains"],
+    "answer": "Nirvana"
+  },
+  {
+    "id": 364,
+    "question_en": "In what year did the Wright brothers make their first successful flight?",
+    "question_roman": "Wright bradran ne apni pehli kamyab parwaz kis saal ki?",
+    "options": ["1901", "1903", "1905", "1909"],
+    "answer": "1903"
+  },
+  {
+    "id": 365,
+    "question_en": "What is the main component of glass?",
+    "question_roman": "Sheeshay (glass) ka bunyadi juz kya hai?",
+    "options": ["Quartz", "Sand (Silica)", "Limestone", "Soda ash"],
+    "answer": "Sand (Silica)"
+  },
+  {
+    "id": 366,
+    "question_en": "What is the capital of Malaysia?",
+    "question_roman": "Malaysia ka darul hakumat kya hai?",
+    "options": ["Penang", "Johor Bahru", "Kuala Lumpur", "Malacca"],
+    "answer": "Kuala Lumpur"
+  },
+  {
+    "id": 367,
+    "question_en": "Who painted 'The Birth of Venus'?",
+    "question_roman": "'The Birth of Venus' ki painting kis ne banayi?",
+    "options": ["Leonardo da Vinci", "Michelangelo", "Raphael", "Sandro Botticelli"],
+    "answer": "Sandro Botticelli"
+  },
+  {
+    "id": 368,
+    "question_en": "What is the deepest known point in the Earth's oceans?",
+    "question_roman": "Zameen ke samandaron mein sab se gehra muqam konsa hai?",
+    "options": ["Tonga Trench", "Philippine Trench", "Mariana Trench", "Kermadec Trench"],
+    "answer": "Mariana Trench"
+  },
+  {
+    "id": 369,
+    "question_en": "In which sport would you hear the terms 'love' and 'deuce'?",
+    "question_roman": "Aapko 'love' aur 'deuce' ki istilahaat kis khel mein sunne ko milengi?",
+    "options": ["Badminton", "Table Tennis", "Volleyball", "Tennis"],
+    "answer": "Tennis"
+  },
+  {
+    "id": 370,
+    "question_en": "Who co-authored 'The Communist Manifesto' with Karl Marx?",
+    "question_roman": "'The Communist Manifesto' Karl Marx ke sath mil kar kis ne likha?",
+    "options": ["Vladimir Lenin", "Leon Trotsky", "Friedrich Engels", "Mikhail Bakunin"],
+    "answer": "Friedrich Engels"
+  },
+  {
+    "id": 371,
+    "question_en": "What is the capital of Chile?",
+    "question_roman": "Chile ka darul hakumat kya hai?",
+    "options": ["Valparaíso", "Concepción", "Santiago", "Antofagasta"],
+    "answer": "Santiago"
+  },
+  {
+    "id": 372,
+    "question_en": "Which animal is known to have the highest blood pressure?",
+    "question_roman": "Kis janwar ka blood pressure sab se zyada hota hai?",
+    "options": ["Elephant", "Blue Whale", "Giraffe", "Hippopotamus"],
+    "answer": "Giraffe"
+  },
+  {
+    "id": 373,
+    "question_en": "What is the name of the sentient computer in '2001: A Space Odyssey'?",
+    "question_roman": "'2001: A Space Odyssey' mein hoshmand computer ka naam kya hai?",
+    "options": ["SKYNET", "HAL 9000", "VIKI", "GLaDOS"],
+    "answer": "HAL 9000"
+  },
+  {
+    "id": 374,
+    "question_en": "The Suez Canal connects which two bodies of water?",
+    "question_roman": "Nehar Suez kin do aabi ajnaam ko milati hai?",
+    "options": ["Atlantic and Pacific Oceans", "Mediterranean and Black Seas", "Mediterranean and Red Seas", "Red Sea and Arabian Sea"],
+    "answer": "Mediterranean and Red Seas"
+  },
+  {
+    "id": 375,
+    "question_en": "What is a group of crows called?",
+    "question_roman": "Kawwon ke jhund ko kya kehte hain?",
+    "options": ["A flock", "A gaggle", "A murder", "A parliament"],
+    "answer": "A murder"
+  },
+  {
+    "id": 376,
+    "question_en": "What is the capital of Nigeria?",
+    "question_roman": "Nigeria ka darul hakumat kya hai?",
+    "options": ["Lagos", "Kano", "Ibadan", "Abuja"],
+    "answer": "Abuja"
+  },
+  {
+    "id": 377,
+    "question_en": "Who wrote the epic novel 'War and Peace'?",
+    "question_roman": "Razmia novel 'War and Peace' kis ne likha?",
+    "options": ["Fyodor Dostoevsky", "Anton Chekhov", "Leo Tolstoy", "Ivan Turgenev"],
+    "answer": "Leo Tolstoy"
+  },
+  {
+    "id": 378,
+    "question_en": "Which is the largest planet in our solar system by mass and volume?",
+    "question_roman": "Mass aur volume ke lihaz se hamare nizam-e-shamsi ka sab se bara sayara konsa hai?",
+    "options": ["Saturn", "Neptune", "Uranus", "Jupiter"],
+    "answer": "Jupiter"
+  },
+  {
+    "id": 379,
+    "question_en": "What is the national flower of Japan?",
+    "question_roman": "Japan ka qaumi phool konsa hai?",
+    "options": ["Lotus", "Orchid", "Cherry Blossom", "Plum Blossom"],
+    "answer": "Cherry Blossom"
+  },
+  {
+    "id": 380,
+    "question_en": "Which actor first portrayed James Bond in a film?",
+    "question_roman": "Kis adakar ne film mein pehli baar James Bond ka kirdar nibhaya?",
+    "options": ["Roger Moore", "George Lazenby", "Sean Connery", "David Niven"],
+    "answer": "Sean Connery"
+  },
+  {
+    "id": 381,
+    "question_en": "What is the capital of South Korea?",
+    "question_roman": "South Korea ka darul hakumat kya hai?",
+    "options": ["Busan", "Incheon", "Daegu", "Seoul"],
+    "answer": "Seoul"
+  },
+  {
+    "id": 382,
+    "question_en": "In what year did the Berlin Wall fall, leading to the reunification of Germany?",
+    "question_roman": "Deewar-e-Berlin kis saal giri, jis ke nateejay mein Germany ka ittehad hua?",
+    "options": ["1987", "1989", "1991", "1993"],
+    "answer": "1989"
+  },
+  {
+    "id": 383,
+    "question_en": "What is the study of fungi called?",
+    "question_roman": "Fungi (phaphund) ke mutalay ko kya kehte hain?",
+    "options": ["Botany", "Virology", "Mycology", "Zoology"],
+    "answer": "Mycology"
+  },
+  {
+    "id": 384,
+    "question_en": "The Sydney Opera House is a famous landmark in which country?",
+    "question_roman": "Sydney Opera House kis mulk ki mashhoor alamat hai?",
+    "options": ["New Zealand", "Canada", "Australia", "United Kingdom"],
+    "answer": "Australia"
+  },
+  {
+    "id": 385,
+    "question_en": "What is the official language of Quebec, Canada?",
+    "question_roman": "Quebec, Canada ki sarkari zaban konsi hai?",
+    "options": ["English", "Spanish", "French", "German"],
+    "answer": "French"
+  },
+  {
+    "id": 386,
+    "question_en": "What is the capital of Kenya?",
+    "question_roman": "Kenya ka darul hakumat kya hai?",
+    "options": ["Mombasa", "Nakuru", "Kisumu", "Nairobi"],
+    "answer": "Nairobi"
+  },
+  {
+    "id": 387,
+    "question_en": "Which scientist is most famous for his theory of gravity?",
+    "question_roman": "Konsa scientist apne nazriya-e-kashish-e-saqal (theory of gravity) ke liye sab se zyada mashhoor hai?",
+    "options": ["Galileo Galilei", "Albert Einstein", "Isaac Newton", "Johannes Kepler"],
+    "answer": "Isaac Newton"
+  },
+  {
+    "id": 388,
+    "question_en": "What is the largest species of deer?",
+    "question_roman": "Hiran ki sab se bari nasal konsi hai?",
+    "options": ["Elk", "Reindeer", "Moose", "Red Deer"],
+    "answer": "Moose"
+  },
+  {
+    "id": 389,
+    "question_en": "Which country is famous for its fjords?",
+    "question_roman": "Konsa mulk apne fjords (samandari kinaray ki geheri khatt) ke liye mashhoor hai?",
+    "options": ["Sweden", "Finland", "Denmark", "Norway"],
+    "answer": "Norway"
+  },
+  {
+    "id": 390,
+    "question_en": "Who is the author of the 1897 Gothic horror novel 'Dracula'?",
+    "question_roman": "1897 ke Gothic horror novel 'Dracula' ka musannif kon hai?",
+    "options": ["Mary Shelley", "Edgar Allan Poe", "Bram Stoker", "H.P. Lovecraft"],
+    "answer": "Bram Stoker"
+  },
+  {
+    "id": 391,
+    "question_en": "What is the capital of Iran?",
+    "question_roman": "Iran ka darul hakumat kya hai?",
+    "options": ["Isfahan", "Shiraz", "Tabriz", "Tehran"],
+    "answer": "Tehran"
+  },
+  {
+    "id": 392,
+    "question_en": "What scale is used to measure the spiciness of chili peppers?",
+    "question_roman": "Mirchon ki tezi mapne ke liye konsa paimana istemal hota hai?",
+    "options": ["Richter scale", "Scoville scale", "Kelvin scale", "Mohs scale"],
+    "answer": "Scoville scale"
+  },
+  {
+    "id": 393,
+    "question_en": "Which composer is famous for a collection of violin concertos known as 'The Four Seasons'?",
+    "question_roman": "Konsa composer violin concertos ke majmooay 'The Four Seasons' ke liye mashhoor hai?",
+    "options": ["Johann Sebastian Bach", "Wolfgang Amadeus Mozart", "Antonio Vivaldi", "Ludwig van Beethoven"],
+    "answer": "Antonio Vivaldi"
+  },
+  {
+    "id": 394,
+    "question_en": "What is the official currency of China?",
+    "question_roman": "Cheen ki sarkari currency kya hai?",
+    "options": ["Yen", "Won", "Renminbi (Yuan)", "Baht"],
+    "answer": "Renminbi (Yuan)"
+  },
+  {
+    "id": 395,
+    "question_en": "The Vince Lombardi Trophy is awarded to the winner of which sports league's championship game?",
+    "question_roman": "Vince Lombardi Trophy kis sports league ke championship game ke विजेता ko di jati hai?",
+    "options": ["NBA (Basketball)", "MLB (Baseball)", "NFL (American Football)", "NHL (Ice Hockey)"],
+    "answer": "NFL (American Football)"
+  },
+  {
+    "id": 396,
+    "question_en": "What is the capital of Ethiopia?",
+    "question_roman": "Ethiopia ka darul hakumat kya hai?",
+    "options": ["Gondar", "Mekelle", "Dire Dawa", "Addis Ababa"],
+    "answer": "Addis Ababa"
+  },
+  {
+    "id": 397,
+    "question_en": "What is the scientific study of the human mind and its functions called?",
+    "question_roman": "Insani dimagh aur uske af'aal ke ilmi mutalay ko kya kehte hain?",
+    "options": ["Sociology", "Anthropology", "Psychology", "Physiology"],
+    "answer": "Psychology"
+  },
+  {
+    "id": 398,
+    "question_en": "Who won a posthumous Academy Award for his role as the Joker in 'The Dark Knight'?",
+    "question_roman": "'The Dark Knight' mein Joker ke kirdar ke liye kis ne marnay ke baad Academy Award jeeta?",
+    "options": ["Jack Nicholson", "Jared Leto", "Heath Ledger", "Joaquin Phoenix"],
+    "answer": "Heath Ledger"
+  },
+  {
+    "id": 399,
+    "question_en": "What is the highest mountain in North America?",
+    "question_roman": "North America ka sab se ooncha pahar konsa hai?",
+    "options": ["Mount Logan", "Mount Rainier", "Denali (Mount McKinley)", "Pico de Orizaba"],
+    "answer": "Denali (Mount McKinley)"
+  },
+  {
+    "id": 400,
+    "question_en": "Who wrote the epic poem 'The Divine Comedy'?",
+    "question_roman": "Razmia nazm 'The Divine Comedy' kis ne likhi?",
+    "options": ["Homer", "Virgil", "Dante Alighieri", "Geoffrey Chaucer"],
+    "answer": "Dante Alighieri"
+  }, 
+  {
+    "id": 401,
+    "question_en": "What is the capital of Venezuela?",
+    "question_roman": "Venezuela ka darul hakumat kya hai?",
+    "options": ["Maracaibo", "Valencia", "Caracas", "Barquisimeto"],
+    "answer": "Caracas"
+  },
+  {
+    "id": 402,
+    "question_en": "Which famous physicist is known for the uncertainty principle?",
+    "question_roman": "Konsa mashhoor physicist ghair yaqeeni ke usool (uncertainty principle) ke liye jana jata hai?",
+    "options": ["Niels Bohr", "Erwin Schrödinger", "Werner Heisenberg", "Max Planck"],
+    "answer": "Werner Heisenberg"
+  },
+  {
+    "id": 403,
+    "question_en": "In what year was the first email sent?",
+    "question_roman": "Pehla email kis saal bheja gaya tha?",
+    "options": ["1965", "1971", "1983", "1990"],
+    "answer": "1971"
+  },
+  {
+    "id": 404,
+    "question_en": "Who is the author of 'A Brief History of Time'?",
+    "question_roman": "'A Brief History of Time' ka musannif kon hai?",
+    "options": ["Carl Sagan", "Richard Feynman", "Neil deGrasse Tyson", "Stephen Hawking"],
+    "answer": "Stephen Hawking"
+  },
+  {
+    "id": 405,
+    "question_en": "The ancient city of Carthage is located in which modern-day country?",
+    "question_roman": "Qadeem shehar Carthage aaj ke kis mulk mein waqay hai?",
+    "options": ["Libya", "Algeria", "Tunisia", "Morocco"],
+    "answer": "Tunisia"
+  },
+  {
+    "id": 406,
+    "question_en": "What is the capital of Ghana?",
+    "question_roman": "Ghana ka darul hakumat kya hai?",
+    "options": ["Kumasi", "Tamale", "Accra", "Sekondi-Takoradi"],
+    "answer": "Accra"
+  },
+  {
+    "id": 407,
+    "question_en": "Which artist is known for the sculpture 'The Thinker'?",
+    "question_roman": "Konsa fankaar 'The Thinker' mujassamay ke liye jana jata hai?",
+    "options": ["Claude Monet", "Pierre-Auguste Renoir", "Auguste Rodin", "Edgar Degas"],
+    "answer": "Auguste Rodin"
+  },
+  {
+    "id": 408,
+    "question_en": "What is the name of the process that converts sugar to alcohol?",
+    "question_roman": "Us amal ka naam kya hai jo cheeni ko alcohol mein tabdeel karta hai?",
+    "options": ["Oxidation", "Reduction", "Fermentation", "Distillation"],
+    "answer": "Fermentation"
+  },
+  {
+    "id": 409,
+    "question_en": "In what movie does the character 'Vito Corleone' appear?",
+    "question_roman": "Kirdar 'Vito Corleone' kis film mein zahir hota hai?",
+    "options": ["Goodfellas", "Scarface", "The Godfather", "Casino"],
+    "answer": "The Godfather"
+  },
+  {
+    "id": 410,
+    "question_en": "Which is the largest country in the world that has no river?",
+    "question_roman": "Dunya ka sab se bara mulk konsa hai jis mein koi darya nahi hai?",
+    "options": ["Qatar", "Kuwait", "United Arab Emirates", "Saudi Arabia"],
+    "answer": "Saudi Arabia"
+  },
+  {
+    "id": 411,
+    "question_en": "What is the capital of Algeria?",
+    "question_roman": "Algeria ka darul hakumat kya hai?",
+    "options": ["Oran", "Constantine", "Algiers", "Annaba"],
+    "answer": "Algiers"
+  },
+  {
+    "id": 412,
+    "question_en": "Who wrote 'The Call of the Wild'?",
+    "question_roman": "'The Call of the Wild' kis ne likha?",
+    "options": ["Mark Twain", "Ernest Hemingway", "Jack London", "John Steinbeck"],
+    "answer": "Jack London"
+  },
+  {
+    "id": 413,
+    "question_en": "What is the name of the world's largest active volcano?",
+    "question_roman": "Dunya ke sab se bare fa'aal aatish-fishan ka naam kya hai?",
+    "options": ["Mount Etna", "Mount Fuji", "Mauna Loa", "Krakatoa"],
+    "answer": "Mauna Loa"
+  },
+  {
+    "id": 414,
+    "question_en": "What does a philatelist collect?",
+    "question_roman": "Philatelist kya cheez jama karta hai?",
+    "options": ["Coins", "Stamps", "Books", "Butterflies"],
+    "answer": "Stamps"
+  },
+  {
+    "id": 415,
+    "question_en": "In what year was the social media platform Twitter founded?",
+    "question_roman": "Social media platform Twitter kis saal qaim hua tha?",
+    "options": ["2004", "2005", "2006", "2007"],
+    "answer": "2006"
+  },
+  {
+    "id": 416,
+    "question_en": "Which ocean surrounds the island of Madagascar?",
+    "question_roman": "Madagascar jazeeray ke gird konsa samandar hai?",
+    "options": ["Atlantic Ocean", "Pacific Ocean", "Indian Ocean", "Southern Ocean"],
+    "answer": "Indian Ocean"
+  },
+  {
+    "id": 417,
+    "question_en": "Who was the first Holy Roman Emperor?",
+    "question_roman": "Pehla Muqaddas Roman Shehenshah kon tha?",
+    "options": ["Constantine the Great", "Justinian I", "Charlemagne", "Otto I"],
+    "answer": "Charlemagne"
+  },
+  {
+    "id": 418,
+    "question_en": "What is the capital of Croatia?",
+    "question_roman": "Croatia ka darul hakumat kya hai?",
+    "options": ["Split", "Dubrovnik", "Zagreb", "Rijeka"],
+    "answer": "Zagreb"
+  },
+  {
+    "id": 419,
+    "question_en": "What is the name of the main character in 'The Matrix' trilogy?",
+    "question_roman": "'The Matrix' trilogy mein markazi kirdar ka naam kya hai?",
+    "options": ["Morpheus", "Agent Smith", "Neo", "Trinity"],
+    "answer": "Neo"
+  },
+  {
+    "id": 420,
+    "question_en": "How many moons does Mars have?",
+    "question_roman": "Mars (Mareekh) ke kitne chand hain?",
+    "options": ["One", "Two", "Three", "Four"],
+    "answer": "Two"
+  },
+  {
+    "id": 421,
+    "question_en": "Who wrote the play 'Pygmalion', which was later adapted into the musical 'My Fair Lady'?",
+    "question_roman": "Drama 'Pygmalion' kis ne likha, jise baad mein musical 'My Fair Lady' mein tabdeel kiya gaya?",
+    "options": ["Oscar Wilde", "Henrik Ibsen", "Anton Chekhov", "George Bernard Shaw"],
+    "answer": "George Bernard Shaw"
+  },
+  {
+    "id": 422,
+    "question_en": "What is the capital of Bangladesh?",
+    "question_roman": "Bangladesh ka darul hakumat kya hai?",
+    "options": ["Chittagong", "Khulna", "Sylhet", "Dhaka"],
+    "answer": "Dhaka"
+  },
+  {
+    "id": 423,
+    "question_en": "Which famous battle in 1815 marked the final defeat of Napoleon Bonaparte?",
+    "question_roman": "1815 ki konsi mashhoor jang Napoleon Bonaparte ki aakhri shikast ka nishan bani?",
+    "options": ["Battle of Trafalgar", "Battle of Austerlitz", "Battle of Waterloo", "Battle of Leipzig"],
+    "answer": "Battle of Waterloo"
+  },
+  {
+    "id": 424,
+    "question_en": "What is the name of the Earth's outermost layer?",
+    "question_roman": "Zameen ki sab se baironi teh ka naam kya hai?",
+    "options": ["Mantle", "Core", "Crust", "Atmosphere"],
+    "answer": "Crust"
+  },
+  {
+    "id": 425,
+    "question_en": "What is the largest island in the Mediterranean Sea?",
+    "question_roman": "Bahr-e-Rum (Mediterranean Sea) ka sab se bara jazeera konsa hai?",
+    "options": ["Sardinia", "Cyprus", "Crete", "Sicily"],
+    "answer": "Sicily"
+  },
+  {
+    "id": 426,
+    "question_en": "What is the capital of Singapore?",
+    "question_roman": "Singapore ka darul hakumat kya hai?",
+    "options": ["Kuala Lumpur", "Bangkok", "Jakarta", "Singapore"],
+    "answer": "Singapore"
+  },
+  {
+    "id": 427,
+    "question_en": "Which country's national flag is the only one in the world that is not a quadrilateral (four-sided)?",
+    "question_roman": "Kis mulk ka qaumi jhanda dunya mein wahid hai jo chaar-kon wala (quadrilateral) nahi hai?",
+    "options": ["Switzerland", "Vatican City", "Nepal", "Bhutan"],
+    "answer": "Nepal"
+  },
+  {
+    "id": 428,
+    "question_en": "Who composed the music for the ballet 'The Nutcracker'?",
+    "question_roman": "Ballet 'The Nutcracker' ki moseeqi kis ne tartib di?",
+    "options": ["Igor Stravinsky", "Sergei Prokofiev", "Pyotr Ilyich Tchaikovsky", "Dmitri Shostakovich"],
+    "answer": "Pyotr Ilyich Tchaikovsky"
+  },
+  {
+    "id": 429,
+    "question_en": "What is the name of the first man-made object to leave our solar system?",
+    "question_roman": "Hamare nizam-e-shamsi se bahar jane wali pehli insan-sakhta shay ka naam kya hai?",
+    "options": ["Pioneer 10", "Voyager 2", "Voyager 1", "New Horizons"],
+    "answer": "Voyager 1"
+  },
+  {
+    "id": 430,
+    "question_en": "Who wrote 'The Hitchhiker's Guide to the Galaxy'?",
+    "question_roman": "'The Hitchhiker's Guide to the Galaxy' kis ne likha?",
+    "options": ["Isaac Asimov", "Arthur C. Clarke", "Philip K. Dick", "Douglas Adams"],
+    "answer": "Douglas Adams"
+  },
+  {
+    "id": 431,
+    "question_en": "What is the capital of Romania?",
+    "question_roman": "Romania ka darul hakumat kya hai?",
+    "options": ["Cluj-Napoca", "Timișoara", "Bucharest", "Iași"],
+    "answer": "Bucharest"
+  },
+  {
+    "id": 432,
+    "question_en": "The Mojave Desert is primarily located in which U.S. state?",
+    "question_roman": "Mojave sehra bunyadi tor par America ki kis riyasat mein waqay hai?",
+    "options": ["Arizona", "Nevada", "California", "Utah"],
+    "answer": "California"
+  },
+  {
+    "id": 433,
+    "question_en": "What does a seismologist study?",
+    "question_roman": "Seismologist kis cheez ka mutala karta hai?",
+    "options": ["Volcanoes", "Oceans", "Earthquakes", "Weather"],
+    "answer": "Earthquakes"
+  },
+  {
+    "id": 434,
+    "question_en": "Which film is known for the line, 'I'll be back'?",
+    "question_roman": "Konsi film 'I'll be back' dialogue ke liye jani jati hai?",
+    "options": ["Die Hard", "Rambo", "The Terminator", "Predator"],
+    "answer": "The Terminator"
+  },
+  {
+    "id": 435,
+    "question_en": "What is the capital of the Czech Republic?",
+    "question_roman": "Czech Republic ka darul hakumat kya hai?",
+    "options": ["Brno", "Ostrava", "Plzeň", "Prague"],
+    "answer": "Prague"
+  },
+  {
+    "id": 436,
+    "question_en": "Which gas is responsible for the Earth's ozone layer?",
+    "question_roman": "Zameen ki ozone teh ke liye konsi gas zimmedar hai?",
+    "options": ["Oxygen (O2)", "Ozone (O3)", "Nitrogen (N2)", "Carbon Dioxide (CO2)"],
+    "answer": "Ozone (O3)"
+  },
+  {
+    "id": 437,
+    "question_en": "Who was the queen of ancient Egypt, famous for her beauty and alliance with Roman leaders?",
+    "question_roman": "Qadeem Misr (Egypt) ki woh malka kon thi jo apni khubsurti aur Roman rehnumaon se ittehad ke liye mashhoor thi?",
+    "options": ["Nefertiti", "Hatshepsut", "Cleopatra", "Nefertari"],
+    "answer": "Cleopatra"
+  },
+  {
+    "id": 438,
+    "question_en": "What is the world's most populous city?",
+    "question_roman": "Dunya ka sab se zyada abadi wala shehar konsa hai?",
+    "options": ["Shanghai", "Delhi", "Tokyo", "São Paulo"],
+    "answer": "Tokyo"
+  },
+  {
+    "id": 439,
+    "question_en": "Who painted the famous artwork 'American Gothic'?",
+    "question_roman": "Mashhoor artwork 'American Gothic' kis ne paint kiya?",
+    "options": ["Edward Hopper", "Jackson Pollock", "Andy Warhol", "Grant Wood"],
+    "answer": "Grant Wood"
+  },
+  {
+    "id": 440,
+    "question_en": "What is the capital of Ukraine?",
+    "question_roman": "Ukraine ka darul hakumat kya hai?",
+    "options": ["Kharkiv", "Lviv", "Odesa", "Kyiv"],
+    "answer": "Kyiv"
+  },
+  {
+    "id": 441,
+    "question_en": "What is the name of the force that opposes motion between surfaces in contact?",
+    "question_roman": "Sathon ke darmiyan harkat ki mukhalifat karne wali quwwat ka naam kya hai?",
+    "options": ["Gravity", "Tension", "Friction", "Inertia"],
+    "answer": "Friction"
+  },
+  {
+    "id": 442,
+    "question_en": "Who is the creator of the comic strip 'Peanuts'?",
+    "question_roman": "Comic strip 'Peanuts' ka takhleeq-kar kon hai?",
+    "options": ["Bill Watterson", "Jim Davis", "Charles M. Schulz", "Gary Larson"],
+    "answer": "Charles M. Schulz"
+  },
+  {
+    "id": 443,
+    "question_en": "What is the capital of Qatar?",
+    "question_roman": "Qatar ka darul hakumat kya hai?",
+    "options": ["Al Khor", "Al Wakrah", "Doha", "Lusail"],
+    "answer": "Doha"
+  },
+  {
+    "id": 444,
+    "question_en": "Which element is named after the creator of the periodic table?",
+    "question_roman": "Kis anasir (element) ka naam periodic table ke takhleeq-kar ke naam par rakha gaya hai?",
+    "options": ["Einsteinium", "Curium", "Nobelium", "Mendelevium"],
+    "answer": "Mendelevium"
+  },
+  {
+    "id": 445,
+    "question_en": "The ancient Parthenon temple stands in which city?",
+    "question_roman": "Qadeem Parthenon mandir kis shehar mein hai?",
+    "options": ["Rome", "Athens", "Sparta", "Alexandria"],
+    "answer": "Athens"
+  },
+  {
+    "id": 446,
+    "question_en": "What is the name of the fictional detective created by Agatha Christie?",
+    "question_roman": "Agatha Christie ke takhleeq karda farzi jasoos ka naam kya hai?",
+    "options": ["Sherlock Holmes", "Philip Marlowe", "Hercule Poirot", "Sam Spade"],
+    "answer": "Hercule Poirot"
+  },
+  {
+    "id": 447,
+    "question_en": "Which is the largest country in Africa by area?",
+    "question_roman": "Raqbay ke lihaz se Africa ka sab se bara mulk konsa hai?",
+    "options": ["Sudan", "DR Congo", "Algeria", "Libya"],
+    "answer": "Algeria"
+  },
+  {
+    "id": 448,
+    "question_en": "What is the capital of Libya?",
+    "question_roman": "Libya ka darul hakumat kya hai?",
+    "options": ["Benghazi", "Misrata", "Tripoli", "Sirte"],
+    "answer": "Tripoli"
+  },
+  {
+    "id": 449,
+    "question_en": "Who directed the 'Avatar' film series?",
+    "question_roman": "'Avatar' film series ke director kon hain?",
+    "options": ["Peter Jackson", "Steven Spielberg", "George Lucas", "James Cameron"],
+    "answer": "James Cameron"
+  },
+  {
+    "id": 450,
+    "question_en": "What is the name of the Japanese art of paper folding?",
+    "question_roman": "Kaghaz mornay ke Japani fun ka naam kya hai?",
+    "options": ["Ikebana", "Bonsai", "Origami", "Haiku"],
+    "answer": "Origami"
+  }, 
+  {
+    "id": 451,
+    "question_en": "What is the capital of Morocco?",
+    "question_roman": "Morocco ka darul hakumat kya hai?",
+    "options": ["Casablanca", "Marrakesh", "Fes", "Rabat"],
+    "answer": "Rabat"
+  },
+  {
+    "id": 452,
+    "question_en": "Who wrote the dystopian novel '1984'?",
+    "question_roman": "Dystopian novel '1984' kis ne likha?",
+    "options": ["Aldous Huxley", "Ray Bradbury", "George Orwell", "J.R.R. Tolkien"],
+    "answer": "George Orwell"
+  },
+  {
+    "id": 453,
+    "question_en": "Which planet is known for its Great Red Spot?",
+    "question_roman": "Konsa sayara apne 'Great Red Spot' ke liye jana jata hai?",
+    "options": ["Mars", "Saturn", "Jupiter", "Venus"],
+    "answer": "Jupiter"
+  },
+  {
+    "id": 454,
+    "question_en": "What is the longest river in Europe?",
+    "question_roman": "Europe ka sab se lamba darya konsa hai?",
+    "options": ["Danube", "Rhine", "Volga", "Dnieper"],
+    "answer": "Volga"
+  },
+  {
+    "id": 455,
+    "question_en": "Who is credited with inventing the modern printing press?",
+    "question_roman": "Jadeed printing press ijaad karne ka sehra kis ke sar hai?",
+    "options": ["Leonardo da Vinci", "Johannes Gutenberg", "Galileo Galilei", "Isaac Newton"],
+    "answer": "Johannes Gutenberg"
+  },
+  {
+    "id": 456,
+    "question_en": "What is the chemical symbol for tin?",
+    "question_roman": "Tin ka chemical symbol kya hai?",
+    "options": ["Ti", "Tn", "Sn", "T"],
+    "answer": "Sn"
+  },
+  {
+    "id": 457,
+    "question_en": "The Renaissance is considered to have begun in which country?",
+    "question_roman": "Renaissance (دورِ نشاۃ ثانیہ) ka aaghaz kis mulk se mana jata hai?",
+    "options": ["France", "Spain", "Germany", "Italy"],
+    "answer": "Italy"
+  },
+  {
+    "id": 458,
+    "question_en": "Who is the hero of Homer's epic poem 'The Odyssey'?",
+    "question_roman": "Homer ki razmia nazm 'The Odyssey' ka hero kon hai?",
+    "options": ["Achilles", "Hector", "Agamemnon", "Odysseus"],
+    "answer": "Odysseus"
+  },
+  {
+    "id": 459,
+    "question_en": "What is the capital of Iceland?",
+    "question_roman": "Iceland ka darul hakumat kya hai?",
+    "options": ["Akureyri", "Reykjavik", "Kópavogur", "Hafnarfjörður"],
+    "answer": "Reykjavik"
+  },
+  {
+    "id": 460,
+    "question_en": "What is the term for a group of owls?",
+    "question_roman": "Ulluon ke jhund ko kya kehte hain?",
+    "options": ["A flock", "A brood", "A parliament", "A bevy"],
+    "answer": "A parliament"
+  },
+  {
+    "id": 461,
+    "question_en": "Who directed the iconic film 'Citizen Kane'?",
+    "question_roman": "Lassaani film 'Citizen Kane' ke director kon thay?",
+    "options": ["Alfred Hitchcock", "Stanley Kubrick", "Orson Welles", "Charlie Chaplin"],
+    "answer": "Orson Welles"
+  },
+  {
+    "id": 462,
+    "question_en": "What is the currency of Brazil?",
+    "question_roman": "Brazil ki currency kya hai?",
+    "options": ["Peso", "Real", "Bolívar", "Sol"],
+    "answer": "Real"
+  },
+  {
+    "id": 463,
+    "question_en": "Which amendment to the U.S. Constitution abolished slavery?",
+    "question_roman": "Amreeki aain ki kis tarmeem ne ghulami ko khatam kiya?",
+    "options": ["1st Amendment", "13th Amendment", "14th Amendment", "19th Amendment"],
+    "answer": "13th Amendment"
+  },
+  {
+    "id": 464,
+    "question_en": "What is the smallest bone in the human body?",
+    "question_roman": "Insani jism ki sab se choti haddi konsi hai?",
+    "options": ["Incus (Anvil)", "Malleus (Hammer)", "Stapes (Stirrup)", "Phalange"],
+    "answer": "Stapes (Stirrup)"
+  },
+  {
+    "id": 465,
+    "question_en": "What is the capital of Vietnam?",
+    "question_roman": "Vietnam ka darul hakumat kya hai?",
+    "options": ["Ho Chi Minh City", "Hanoi", "Da Nang", "Hue"],
+    "answer": "Hanoi"
+  },
+  {
+    "id": 466,
+    "question_en": "Who painted the powerful anti-war mural 'Guernica'?",
+    "question_roman": "Taqatwar anti-war mural 'Guernica' kis ne paint kiya?",
+    "options": ["Salvador Dalí", "Francisco Goya", "Joan Miró", "Pablo Picasso"],
+    "answer": "Pablo Picasso"
+  },
+  {
+    "id": 467,
+    "question_en": "Which is the largest moon of the planet Saturn?",
+    "question_roman": "Sayara Zuhal (Saturn) ka sab se bara chand konsa hai?",
+    "options": ["Enceladus", "Rhea", "Iapetus", "Titan"],
+    "answer": "Titan"
+  },
+  {
+    "id": 468,
+    "question_en": "The 'Roaring Twenties' is a term for which decade of the 20th century?",
+    "question_roman": "'Roaring Twenties' 20veen sadi ki kis dahai ke liye istilaha hai?",
+    "options": ["1910s", "1920s", "1930s", "1940s"],
+    "answer": "1920s"
+  },
+  {
+    "id": 469,
+    "question_en": "What is a group of whales called?",
+    "question_roman": "Whales ke jhund ko kya kehte hain?",
+    "options": ["A school", "A herd", "A pod", "A flock"],
+    "answer": "A pod"
+  },
+  {
+    "id": 470,
+    "question_en": "Who wrote 'The Handmaid's Tale'?",
+    "question_roman": "'The Handmaid's Tale' kis ne likha?",
+    "options": ["Ursula K. Le Guin", "Margaret Atwood", "Octavia Butler", "Alice Walker"],
+    "answer": "Margaret Atwood"
+  },
+  {
+    "id": 471,
+    "question_en": "What is the process of a solid turning directly into a gas called?",
+    "question_roman": "Thos (solid) ka barah-e-raast gas mein tabdeel honay ke amal ko kya kehte hain?",
+    "options": ["Evaporation", "Condensation", "Sublimation", "Melting"],
+    "answer": "Sublimation"
+  },
+  {
+    "id": 472,
+    "question_en": "In which city would you find the Trevi Fountain?",
+    "question_roman": "Trevi Fountain aapko kis shehar mein milay ga?",
+    "options": ["Florence", "Venice", "Milan", "Rome"],
+    "answer": "Rome"
+  },
+  {
+    "id": 473,
+    "question_en": "What is the main language spoken in Iran?",
+    "question_roman": "Iran mein boli jane wali ahem zaban konsi hai?",
+    "options": ["Arabic", "Persian (Farsi)", "Kurdish", "Turkish"],
+    "answer": "Persian (Farsi)"
+  },
+  {
+    "id": 474,
+    "question_en": "Who composed the opera 'The Magic Flute'?",
+    "question_roman": "Opera 'The Magic Flute' ki moseeqi kis ne tartib di?",
+    "options": ["Bach", "Beethoven", "Wolfgang Amadeus Mozart", "Haydn"],
+    "answer": "Wolfgang Amadeus Mozart"
+  },
+  {
+    "id": 475,
+    "question_en": "The ancient city of Troy was located in which modern-day country?",
+    "question_roman": "Qadeem shehar Troy aaj ke kis mulk mein waqay tha?",
+    "options": ["Greece", "Egypt", "Italy", "Turkey"],
+    "answer": "Turkey"
+  },
+  {
+    "id": 476,
+    "question_en": "What is the capital of Peru?",
+    "question_roman": "Peru ka darul hakumat kya hai?",
+    "options": ["Bogotá", "Quito", "Lima", "Santiago"],
+    "answer": "Lima"
+  },
+  {
+    "id": 477,
+    "question_en": "Which video game character is a blue hedgehog known for his speed?",
+    "question_roman": "Konsa video game kirdar neela hedgehog hai jo apni raftaar ke liye jana jata hai?",
+    "options": ["Mario", "Link", "Donkey Kong", "Sonic"],
+    "answer": "Sonic"
+  },
+  {
+    "id": 478,
+    "question_en": "What does a numismatist study or collect?",
+    "question_roman": "Numismatist kis cheez ka mutala ya jama karta hai?",
+    "options": ["Stamps", "Coins", "Maps", "Rocks"],
+    "answer": "Coins"
+  },
+  {
+    "id": 479,
+    "question_en": "Which is the largest big cat native to the Americas?",
+    "question_roman": "America ki sab se bari muqami bari billi konsi hai?",
+    "options": ["Puma", "Jaguar", "Bobcat", "Ocelot"],
+    "answer": "Jaguar"
+  },
+  {
+    "id": 480,
+    "question_en": "Who was the first woman to win a Nobel Prize?",
+    "question_roman": "Nobel Inam jeetne wali pehli khatoon kon theen?",
+    "options": ["Irene Joliot-Curie", "Dorothy Hodgkin", "Marie Curie", "Gerty Cori"],
+    "answer": "Marie Curie"
+  },
+  {
+    "id": 481,
+    "question_en": "What is the capital of Cambodia?",
+    "question_roman": "Cambodia ka darul hakumat kya hai?",
+    "options": ["Siem Reap", "Battambang", "Phnom Penh", "Sihanoukville"],
+    "answer": "Phnom Penh"
+  },
+  {
+    "id": 482,
+    "question_en": "The philosopher Plato was a student of which other famous philosopher?",
+    "question_roman": "Falsafi Plato kis dosray mashhoor falsafi ka shagird tha?",
+    "options": ["Aristotle", "Pythagoras", "Socrates", "Heraclitus"],
+    "answer": "Socrates"
+  },
+  {
+    "id": 483,
+    "question_en": "Which is the most abundant gas in Earth's atmosphere?",
+    "question_roman": "Zameen ki fiza mein sab se zyada payi jane wali gas konsi hai?",
+    "options": ["Oxygen", "Nitrogen", "Argon", "Carbon Dioxide"],
+    "answer": "Nitrogen"
+  },
+  {
+    "id": 484,
+    "question_en": "Who directed the movie 'E.T. the Extra-Terrestrial'?",
+    "question_roman": "Film 'E.T. the Extra-Terrestrial' ke director kon thay?",
+    "options": ["George Lucas", "James Cameron", "Steven Spielberg", "Ridley Scott"],
+    "answer": "Steven Spielberg"
+  },
+  {
+    "id": 485,
+    "question_en": "What is the largest country on the Arabian Peninsula?",
+    "question_roman": "Jazeera-numa Arab ka sab se bara mulk konsa hai?",
+    "options": ["Yemen", "Oman", "Saudi Arabia", "UAE"],
+    "answer": "Saudi Arabia"
+  },
+  {
+    "id": 486,
+    "question_en": "What is the capital of Tanzania?",
+    "question_roman": "Tanzania ka darul hakumat kya hai?",
+    "options": ["Dar es Salaam", "Arusha", "Mwanza", "Dodoma"],
+    "answer": "Dodoma"
+  },
+  {
+    "id": 487,
+    "question_en": "What is the hardest substance in the human body?",
+    "question_roman": "Insani jism mein sab se sakht shay konsi hai?",
+    "options": ["Bone", "Tooth Enamel", "Dentin", "Cementum"],
+    "answer": "Tooth Enamel"
+  },
+  {
+    "id": 488,
+    "question_en": "Which musical instrument is often called the 'King of Instruments'?",
+    "question_roman": "Kis moseeqi ke aalay ko aksar 'Aalat ka Badshah' kaha jata hai?",
+    "options": ["Piano", "Violin", "Pipe Organ", "Cello"],
+    "answer": "Pipe Organ"
+  },
+  {
+    "id": 489,
+    "question_en": "In what year did the RMS Titanic sink?",
+    "question_roman": "RMS Titanic kis saal dooba tha?",
+    "options": ["1905", "1909", "1912", "1915"],
+    "answer": "1912"
+  },
+  {
+    "id": 490,
+    "question_en": "Who wrote the classic novel 'Les Misérables'?",
+    "question_roman": "Classic novel 'Les Misérables' kis ne likha?",
+    "options": ["Alexandre Dumas", "Gustave Flaubert", "Victor Hugo", "Émile Zola"],
+    "answer": "Victor Hugo"
+  },
+  {
+    "id": 491,
+    "question_en": "What is the capital of Mongolia?",
+    "question_roman": "Mongolia ka darul hakumat kya hai?",
+    "options": ["Beijing", "Ulaanbaatar", "Moscow", "Almaty"],
+    "answer": "Ulaanbaatar"
+  },
+  {
+    "id": 492,
+    "question_en": "What is the fear of open or crowded spaces called?",
+    "question_roman": "Khuli ya bheer wali jagahon ke darr ko kya kehte hain?",
+    "options": ["Claustrophobia", "Acrophobia", "Agoraphobia", "Arachnophobia"],
+    "answer": "Agoraphobia"
+  },
+  {
+    "id": 493,
+    "question_en": "Which artist is a leading figure in the Pop Art movement and created the 'Campbell's Soup Cans' series?",
+    "question_roman": "Konsa fankaar Pop Art tehreek ka numayan chehra hai aur 'Campbell's Soup Cans' series takhleeq ki?",
+    "options": ["Roy Lichtenstein", "Jasper Johns", "Andy Warhol", "Jackson Pollock"],
+    "answer": "Andy Warhol"
+  },
+  {
+    "id": 494,
+    "question_en": "What is the largest landlocked country in the world?",
+    "question_roman": "Dunya ka sab se bara landlocked (zameen se ghira) mulk konsa hai?",
+    "options": ["Mongolia", "Chad", "Kazakhstan", "Niger"],
+    "answer": "Kazakhstan"
+  },
+  {
+    "id": 495,
+    "question_en": "Who was the Roman god of the underworld?",
+    "question_roman": "Roman devmala mein paatal (underworld) ka devta kon tha?",
+    "options": ["Jupiter", "Mars", "Pluto", "Neptune"],
+    "answer": "Pluto"
+  },
+  {
+    "id": 496,
+    "question_en": "The Battle of Gettysburg was a decisive battle in which war?",
+    "question_roman": "Gettysburg ki jang kis jang mein faisla-kun jang thi?",
+    "options": ["Revolutionary War", "American Civil War", "War of 1812", "World War I"],
+    "answer": "American Civil War"
+  },
+  {
+    "id": 497,
+    "question_en": "What is the capital of Jordan?",
+    "question_roman": "Jordan ka darul hakumat kya hai?",
+    "options": ["Damascus", "Beirut", "Amman", "Jerusalem"],
+    "answer": "Amman"
+  },
+  {
+    "id": 498,
+    "question_en": "Which programming language was developed by James Gosling at Sun Microsystems?",
+    "question_roman": "Sun Microsystems mein James Gosling ne konsi programming language banayi thi?",
+    "options": ["Python", "C++", "Java", "C#"],
+    "answer": "Java"
+  },
+  {
+    "id": 499,
+    "question_en": "In which Shakespeare play does the villain Iago appear?",
+    "question_roman": "Shakespeare ke kis drame mein villain Iago ka kirdar hai?",
+    "options": ["Hamlet", "Macbeth", "Othello", "King Lear"],
+    "answer": "Othello"
+  },
+  {
+    "id": 500,
+    "question_en": "Which film won the first-ever Academy Award for Best Animated Feature?",
+    "question_roman": "Kis film ne sab se pehla Academy Award for Best Animated Feature jeeta tha?",
+    "options": ["Monsters, Inc.", "Shrek", "Ice Age", "Spirited Away"],
+    "answer": "Shrek"
+  }
+]
